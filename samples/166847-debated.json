@@ -1,0 +1,4195 @@
+{
+    "links": {
+        "self": "https://petition.parliament.uk/petitions/166847.json"
+    },
+    "data": {
+        "type": "petition",
+        "id": 166847,
+        "attributes": {
+            "action": "Put a max of £1200 on car insurance for 18-25 year olds",
+            "background": "Insurance companies are making it harder and harder for people aged 18-25 years of age to start driving. I myself am looking at a £2500 insurance for my first year driving which is completely unaffordable as i am earning minimum wage £5.30 per hour and am also having to pay bill for my property.",
+            "additional_details": "",
+            "state": "closed",
+            "signature_count": 185175,
+            "created_at": "2016-09-10T22:30:39.947Z",
+            "updated_at": "2017-03-31T14:20:33.891Z",
+            "open_at": "2016-09-14T10:18:56.752Z",
+            "closed_at": "2017-03-14T23:59:59.999Z",
+            "government_response_at": "2016-12-13T09:14:32.038Z",
+            "scheduled_debate_date": "2017-03-20",
+            "debate_threshold_reached_at": "2016-11-30T15:45:14.744Z",
+            "rejected_at": null,
+            "debate_outcome_at": "2017-03-21T10:45:51.061Z",
+            "moderation_threshold_reached_at": "2016-09-11T07:12:56.500Z",
+            "response_threshold_reached_at": "2016-11-26T13:42:40.306Z",
+            "creator_name": null,
+            "rejection": null,
+            "government_response": {
+                "summary": "By strengthening the way that people learn to drive and are tested and by tackling insurance fraud this Government is helping bear down on the cost of insurance for new and inexperienced drivers.  ",
+                "details": "The Government is aware that the cost of motor insurance can be high for new and inexperienced drivers. We have taken forward a programme of measures to strengthen the way that people learn to drive and are tested.  We have engaged insurers in this process, so that they can have confidence that additional measures will make a real difference that can be rewarded with lower premiums.  \r\n\r\nMotor insurance premiums can vary according to the risks associated with different types of driver, vehicle and other factors such as age and driving experience.   Motor insurance is a very competitive market and shopping around for the best possible option before making any decisions is likely to benefit customers.  The British Insurance Brokers Association (BIBA) run a not for profit ‘find a broker’ service where there are many broker products for young drivers. Further information can be found on their website: www.biba.org.uk. New rules coming into force next year will require motor insurers to disclose last year’s premium at renewal and prompt customers to shop around for the best deal.\r\n\r\nSome insurers have introduced the use of telematics or in-car black boxes to allow better risk-based pricing for new drivers. It means insurers now have a real time data feed, which allows them to see an individual’s driving behaviour, which had not previously been possible in the past. There is some evidence that suggests new drivers could see their annual premiums fall by 20% or more if they show good driving behaviour with a black box installed in their cars. \r\n\r\nThe Government recently announced reforms aimed at tackling the continuing high number and costly whiplash injury claims that were having a negative impact on the price of motor insurance premiums.  These reforms will end the cycle in which motorists pay higher insurance premiums due to minor, exaggerated and fraudulent whiplash claims by others.   The government fully expects insurers to pass on the savings from these reforms to consumers through lower premiums and leading insurers have already committed to do this. \r\n\r\nDepartment for Transport",
+                "created_at": "2016-12-13T09:14:32.035Z",
+                "updated_at": "2016-12-13T09:14:32.035Z"
+            },
+            "debate": {
+                "debated_on": "2017-03-20",
+                "transcript_url": "https://hansard.parliament.uk/commons/2017-03-20/debates/E796B9EB-F7DB-4376-A615-AF50A04E69E2/CarInsuranceYoungPeople",
+                "video_url": "http://www.parliamentlive.tv/Event/Index/1fa5009d-4d61-43eb-adef-6358bc73622e",
+                "overview": ""
+            },
+            "signatures_by_country": [
+                {
+                    "name": "Australia",
+                    "code": "AU",
+                    "signature_count": 18
+                },
+                {
+                    "name": "Austria",
+                    "code": "AT",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Bahrain",
+                    "code": "BH",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Bangladesh",
+                    "code": "BD",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Belgium",
+                    "code": "BE",
+                    "signature_count": 2
+                },
+                {
+                    "name": "British Antarctic Territory",
+                    "code": "BAT",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Canada",
+                    "code": "CA",
+                    "signature_count": 4
+                },
+                {
+                    "name": "Croatia",
+                    "code": "HR",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Cyprus",
+                    "code": "CY",
+                    "signature_count": 3
+                },
+                {
+                    "name": "France",
+                    "code": "FR",
+                    "signature_count": 9
+                },
+                {
+                    "name": "Germany",
+                    "code": "DE",
+                    "signature_count": 8
+                },
+                {
+                    "name": "Gibraltar",
+                    "code": "GI",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Guernsey",
+                    "code": "GG",
+                    "signature_count": 5
+                },
+                {
+                    "name": "Hong Kong",
+                    "code": "HK",
+                    "signature_count": 2
+                },
+                {
+                    "name": "Ireland",
+                    "code": "IE",
+                    "signature_count": 39
+                },
+                {
+                    "name": "Isle of Man",
+                    "code": "IM",
+                    "signature_count": 8
+                },
+                {
+                    "name": "Israel",
+                    "code": "IL",
+                    "signature_count": 2
+                },
+                {
+                    "name": "Italy",
+                    "code": "IT",
+                    "signature_count": 3
+                },
+                {
+                    "name": "Jersey",
+                    "code": "JE",
+                    "signature_count": 5
+                },
+                {
+                    "name": "Jordan",
+                    "code": "JO",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Latvia",
+                    "code": "LV",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Lithuania",
+                    "code": "LT",
+                    "signature_count": 2
+                },
+                {
+                    "name": "Luxembourg",
+                    "code": "LU",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Macedonia",
+                    "code": "MK",
+                    "signature_count": 2
+                },
+                {
+                    "name": "Netherlands",
+                    "code": "NL",
+                    "signature_count": 3
+                },
+                {
+                    "name": "New Zealand",
+                    "code": "NZ",
+                    "signature_count": 4
+                },
+                {
+                    "name": "Norway",
+                    "code": "NO",
+                    "signature_count": 3
+                },
+                {
+                    "name": "Oman",
+                    "code": "OM",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Pakistan",
+                    "code": "PK",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Poland",
+                    "code": "PL",
+                    "signature_count": 2
+                },
+                {
+                    "name": "Portugal",
+                    "code": "PT",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Singapore",
+                    "code": "SG",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Spain",
+                    "code": "ES",
+                    "signature_count": 8
+                },
+                {
+                    "name": "Sweden",
+                    "code": "SE",
+                    "signature_count": 3
+                },
+                {
+                    "name": "Switzerland",
+                    "code": "CH",
+                    "signature_count": 5
+                },
+                {
+                    "name": "Tanzania",
+                    "code": "TZ",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Turkmenistan",
+                    "code": "TM",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Tuvalu",
+                    "code": "TV",
+                    "signature_count": 13
+                },
+                {
+                    "name": "Uganda",
+                    "code": "UG",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Ukraine",
+                    "code": "UA",
+                    "signature_count": 1
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "code": "AE",
+                    "signature_count": 8
+                },
+                {
+                    "name": "United Kingdom",
+                    "code": "GB",
+                    "signature_count": 184944
+                },
+                {
+                    "name": "United States",
+                    "code": "US",
+                    "signature_count": 43
+                },
+                {
+                    "name": "Uruguay",
+                    "code": "UY",
+                    "signature_count": 2
+                },
+                {
+                    "name": "Uzbekistan",
+                    "code": "UZ",
+                    "signature_count": 2
+                },
+                {
+                    "name": "Vanuatu",
+                    "code": "VU",
+                    "signature_count": 2
+                },
+                {
+                    "name": "Vatican City",
+                    "code": "VA",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Venezuela",
+                    "code": "VE",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Yemen",
+                    "code": "YE",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Zimbabwe",
+                    "code": "ZW",
+                    "signature_count": 1
+                }
+            ],
+            "signatures_by_constituency": [
+                {
+                    "name": "Edinburgh East",
+                    "ons_code": "S14000022",
+                    "mp": null,
+                    "signature_count": 111
+                },
+                {
+                    "name": "Edinburgh North and Leith",
+                    "ons_code": "S14000023",
+                    "mp": null,
+                    "signature_count": 89
+                },
+                {
+                    "name": "Edinburgh South",
+                    "ons_code": "S14000024",
+                    "mp": null,
+                    "signature_count": 88
+                },
+                {
+                    "name": "Edinburgh South West",
+                    "ons_code": "S14000025",
+                    "mp": null,
+                    "signature_count": 169
+                },
+                {
+                    "name": "Edinburgh West",
+                    "ons_code": "S14000026",
+                    "mp": null,
+                    "signature_count": 182
+                },
+                {
+                    "name": "Banff and Buchan",
+                    "ons_code": "S14000007",
+                    "mp": null,
+                    "signature_count": 208
+                },
+                {
+                    "name": "Falkirk",
+                    "ons_code": "S14000028",
+                    "mp": null,
+                    "signature_count": 248
+                },
+                {
+                    "name": "Glasgow Central",
+                    "ons_code": "S14000029",
+                    "mp": null,
+                    "signature_count": 202
+                },
+                {
+                    "name": "Glasgow East",
+                    "ons_code": "S14000030",
+                    "mp": null,
+                    "signature_count": 323
+                },
+                {
+                    "name": "Glasgow North",
+                    "ons_code": "S14000031",
+                    "mp": null,
+                    "signature_count": 130
+                },
+                {
+                    "name": "Glasgow North East",
+                    "ons_code": "S14000032",
+                    "mp": null,
+                    "signature_count": 294
+                },
+                {
+                    "name": "Glasgow North West",
+                    "ons_code": "S14000033",
+                    "mp": null,
+                    "signature_count": 233
+                },
+                {
+                    "name": "Glasgow South",
+                    "ons_code": "S14000034",
+                    "mp": null,
+                    "signature_count": 204
+                },
+                {
+                    "name": "Glasgow South West",
+                    "ons_code": "S14000035",
+                    "mp": null,
+                    "signature_count": 341
+                },
+                {
+                    "name": "Glenrothes",
+                    "ons_code": "S14000036",
+                    "mp": null,
+                    "signature_count": 217
+                },
+                {
+                    "name": "Gordon",
+                    "ons_code": "S14000037",
+                    "mp": null,
+                    "signature_count": 171
+                },
+                {
+                    "name": "Aberdeen North",
+                    "ons_code": "S14000001",
+                    "mp": null,
+                    "signature_count": 170
+                },
+                {
+                    "name": "Inverclyde",
+                    "ons_code": "S14000038",
+                    "mp": null,
+                    "signature_count": 310
+                },
+                {
+                    "name": "Inverness, Nairn, Badenoch and Strathspey",
+                    "ons_code": "S14000039",
+                    "mp": null,
+                    "signature_count": 318
+                },
+                {
+                    "name": "Kilmarnock and Loudoun",
+                    "ons_code": "S14000040",
+                    "mp": null,
+                    "signature_count": 206
+                },
+                {
+                    "name": "Kirkcaldy and Cowdenbeath",
+                    "ons_code": "S14000041",
+                    "mp": null,
+                    "signature_count": 223
+                },
+                {
+                    "name": "Lanark and Hamilton East",
+                    "ons_code": "S14000042",
+                    "mp": null,
+                    "signature_count": 225
+                },
+                {
+                    "name": "Linlithgow and East Falkirk",
+                    "ons_code": "S14000043",
+                    "mp": null,
+                    "signature_count": 310
+                },
+                {
+                    "name": "Livingston",
+                    "ons_code": "S14000044",
+                    "mp": null,
+                    "signature_count": 262
+                },
+                {
+                    "name": "Midlothian",
+                    "ons_code": "S14000045",
+                    "mp": null,
+                    "signature_count": 283
+                },
+                {
+                    "name": "Aberdeen South",
+                    "ons_code": "S14000002",
+                    "mp": null,
+                    "signature_count": 114
+                },
+                {
+                    "name": "Moray",
+                    "ons_code": "S14000046",
+                    "mp": null,
+                    "signature_count": 266
+                },
+                {
+                    "name": "Motherwell and Wishaw",
+                    "ons_code": "S14000047",
+                    "mp": null,
+                    "signature_count": 225
+                },
+                {
+                    "name": "Na h-Eileanan an Iar",
+                    "ons_code": "S14000027",
+                    "mp": null,
+                    "signature_count": 74
+                },
+                {
+                    "name": "North Ayrshire and Arran",
+                    "ons_code": "S14000048",
+                    "mp": null,
+                    "signature_count": 237
+                },
+                {
+                    "name": "North East Fife",
+                    "ons_code": "S14000049",
+                    "mp": null,
+                    "signature_count": 178
+                },
+                {
+                    "name": "Berwickshire, Roxburgh and Selkirk",
+                    "ons_code": "S14000008",
+                    "mp": null,
+                    "signature_count": 269
+                },
+                {
+                    "name": "Ochil and South Perthshire",
+                    "ons_code": "S14000050",
+                    "mp": null,
+                    "signature_count": 148
+                },
+                {
+                    "name": "Orkney and Shetland",
+                    "ons_code": "S14000051",
+                    "mp": null,
+                    "signature_count": 105
+                },
+                {
+                    "name": "Paisley and Renfrewshire North",
+                    "ons_code": "S14000052",
+                    "mp": null,
+                    "signature_count": 352
+                },
+                {
+                    "name": "Paisley and Renfrewshire South",
+                    "ons_code": "S14000053",
+                    "mp": null,
+                    "signature_count": 290
+                },
+                {
+                    "name": "Perth and North Perthshire",
+                    "ons_code": "S14000054",
+                    "mp": null,
+                    "signature_count": 93
+                },
+                {
+                    "name": "Ross, Skye and Lochaber",
+                    "ons_code": "S14000055",
+                    "mp": null,
+                    "signature_count": 227
+                },
+                {
+                    "name": "Rutherglen and Hamilton West",
+                    "ons_code": "S14000056",
+                    "mp": null,
+                    "signature_count": 220
+                },
+                {
+                    "name": "Stirling",
+                    "ons_code": "S14000057",
+                    "mp": null,
+                    "signature_count": 182
+                },
+                {
+                    "name": "West Aberdeenshire and Kincardine",
+                    "ons_code": "S14000058",
+                    "mp": null,
+                    "signature_count": 146
+                },
+                {
+                    "name": "West Dunbartonshire",
+                    "ons_code": "S14000059",
+                    "mp": null,
+                    "signature_count": 294
+                },
+                {
+                    "name": "Aberavon",
+                    "ons_code": "W07000049",
+                    "mp": null,
+                    "signature_count": 201
+                },
+                {
+                    "name": "Aberconwy",
+                    "ons_code": "W07000058",
+                    "mp": null,
+                    "signature_count": 164
+                },
+                {
+                    "name": "Aldershot",
+                    "ons_code": "E14000530",
+                    "mp": null,
+                    "signature_count": 320
+                },
+                {
+                    "name": "Aldridge-Brownhills",
+                    "ons_code": "E14000531",
+                    "mp": null,
+                    "signature_count": 261
+                },
+                {
+                    "name": "Altrincham and Sale West",
+                    "ons_code": "E14000532",
+                    "mp": null,
+                    "signature_count": 354
+                },
+                {
+                    "name": "Alyn and Deeside",
+                    "ons_code": "W07000043",
+                    "mp": null,
+                    "signature_count": 405
+                },
+                {
+                    "name": "Amber Valley",
+                    "ons_code": "E14000533",
+                    "mp": null,
+                    "signature_count": 238
+                },
+                {
+                    "name": "Arfon",
+                    "ons_code": "W07000057",
+                    "mp": null,
+                    "signature_count": 169
+                },
+                {
+                    "name": "Arundel and South Downs",
+                    "ons_code": "E14000534",
+                    "mp": null,
+                    "signature_count": 192
+                },
+                {
+                    "name": "Ashfield",
+                    "ons_code": "E14000535",
+                    "mp": null,
+                    "signature_count": 268
+                },
+                {
+                    "name": "Ashford",
+                    "ons_code": "E14000536",
+                    "mp": null,
+                    "signature_count": 243
+                },
+                {
+                    "name": "Ashton-under-Lyne",
+                    "ons_code": "E14000537",
+                    "mp": null,
+                    "signature_count": 517
+                },
+                {
+                    "name": "Aylesbury",
+                    "ons_code": "E14000538",
+                    "mp": null,
+                    "signature_count": 292
+                },
+                {
+                    "name": "Banbury",
+                    "ons_code": "E14000539",
+                    "mp": null,
+                    "signature_count": 241
+                },
+                {
+                    "name": "Barking",
+                    "ons_code": "E14000540",
+                    "mp": null,
+                    "signature_count": 578
+                },
+                {
+                    "name": "Barnsley Central",
+                    "ons_code": "E14000541",
+                    "mp": null,
+                    "signature_count": 363
+                },
+                {
+                    "name": "Barnsley East",
+                    "ons_code": "E14000542",
+                    "mp": null,
+                    "signature_count": 432
+                },
+                {
+                    "name": "Barrow and Furness",
+                    "ons_code": "E14000543",
+                    "mp": null,
+                    "signature_count": 143
+                },
+                {
+                    "name": "Basildon and Billericay",
+                    "ons_code": "E14000544",
+                    "mp": null,
+                    "signature_count": 322
+                },
+                {
+                    "name": "Basingstoke",
+                    "ons_code": "E14000545",
+                    "mp": null,
+                    "signature_count": 336
+                },
+                {
+                    "name": "Bassetlaw",
+                    "ons_code": "E14000546",
+                    "mp": null,
+                    "signature_count": 458
+                },
+                {
+                    "name": "Bath",
+                    "ons_code": "E14000547",
+                    "mp": null,
+                    "signature_count": 146
+                },
+                {
+                    "name": "Batley and Spen",
+                    "ons_code": "E14000548",
+                    "mp": null,
+                    "signature_count": 579
+                },
+                {
+                    "name": "Battersea",
+                    "ons_code": "E14000549",
+                    "mp": null,
+                    "signature_count": 110
+                },
+                {
+                    "name": "Beaconsfield",
+                    "ons_code": "E14000550",
+                    "mp": null,
+                    "signature_count": 234
+                },
+                {
+                    "name": "Beckenham",
+                    "ons_code": "E14000551",
+                    "mp": null,
+                    "signature_count": 169
+                },
+                {
+                    "name": "Bedford",
+                    "ons_code": "E14000552",
+                    "mp": null,
+                    "signature_count": 354
+                },
+                {
+                    "name": "Belfast East",
+                    "ons_code": "N06000001",
+                    "mp": null,
+                    "signature_count": 250
+                },
+                {
+                    "name": "Belfast North",
+                    "ons_code": "N06000002",
+                    "mp": null,
+                    "signature_count": 420
+                },
+                {
+                    "name": "Belfast South",
+                    "ons_code": "N06000003",
+                    "mp": null,
+                    "signature_count": 225
+                },
+                {
+                    "name": "Belfast West",
+                    "ons_code": "N06000004",
+                    "mp": null,
+                    "signature_count": 511
+                },
+                {
+                    "name": "Bermondsey and Old Southwark",
+                    "ons_code": "E14000553",
+                    "mp": null,
+                    "signature_count": 218
+                },
+                {
+                    "name": "Berwick-upon-Tweed",
+                    "ons_code": "E14000554",
+                    "mp": null,
+                    "signature_count": 228
+                },
+                {
+                    "name": "Bethnal Green and Bow",
+                    "ons_code": "E14000555",
+                    "mp": null,
+                    "signature_count": 330
+                },
+                {
+                    "name": "Beverley and Holderness",
+                    "ons_code": "E14000556",
+                    "mp": null,
+                    "signature_count": 234
+                },
+                {
+                    "name": "Bexhill and Battle",
+                    "ons_code": "E14000557",
+                    "mp": null,
+                    "signature_count": 206
+                },
+                {
+                    "name": "Bexleyheath and Crayford",
+                    "ons_code": "E14000558",
+                    "mp": null,
+                    "signature_count": 241
+                },
+                {
+                    "name": "Birkenhead",
+                    "ons_code": "E14000559",
+                    "mp": null,
+                    "signature_count": 264
+                },
+                {
+                    "name": "Birmingham, Edgbaston",
+                    "ons_code": "E14000560",
+                    "mp": null,
+                    "signature_count": 323
+                },
+                {
+                    "name": "Birmingham, Erdington",
+                    "ons_code": "E14000561",
+                    "mp": null,
+                    "signature_count": 476
+                },
+                {
+                    "name": "Birmingham, Hall Green",
+                    "ons_code": "E14000562",
+                    "mp": null,
+                    "signature_count": 562
+                },
+                {
+                    "name": "Birmingham, Hodge Hill",
+                    "ons_code": "E14000563",
+                    "mp": null,
+                    "signature_count": 622
+                },
+                {
+                    "name": "Birmingham, Ladywood",
+                    "ons_code": "E14000564",
+                    "mp": null,
+                    "signature_count": 555
+                },
+                {
+                    "name": "Birmingham, Northfield",
+                    "ons_code": "E14000565",
+                    "mp": null,
+                    "signature_count": 460
+                },
+                {
+                    "name": "Birmingham, Perry Barr",
+                    "ons_code": "E14000566",
+                    "mp": null,
+                    "signature_count": 538
+                },
+                {
+                    "name": "Birmingham, Selly Oak",
+                    "ons_code": "E14000567",
+                    "mp": null,
+                    "signature_count": 374
+                },
+                {
+                    "name": "Birmingham, Yardley",
+                    "ons_code": "E14000568",
+                    "mp": null,
+                    "signature_count": 514
+                },
+                {
+                    "name": "Bishop Auckland",
+                    "ons_code": "E14000569",
+                    "mp": null,
+                    "signature_count": 275
+                },
+                {
+                    "name": "Blackburn",
+                    "ons_code": "E14000570",
+                    "mp": null,
+                    "signature_count": 788
+                },
+                {
+                    "name": "Blackley and Broughton",
+                    "ons_code": "E14000571",
+                    "mp": null,
+                    "signature_count": 573
+                },
+                {
+                    "name": "Blackpool North and Cleveleys",
+                    "ons_code": "E14000572",
+                    "mp": null,
+                    "signature_count": 282
+                },
+                {
+                    "name": "Blackpool South",
+                    "ons_code": "E14000573",
+                    "mp": null,
+                    "signature_count": 230
+                },
+                {
+                    "name": "Blaenau Gwent",
+                    "ons_code": "W07000072",
+                    "mp": null,
+                    "signature_count": 238
+                },
+                {
+                    "name": "Blaydon",
+                    "ons_code": "E14000574",
+                    "mp": null,
+                    "signature_count": 237
+                },
+                {
+                    "name": "Blyth Valley",
+                    "ons_code": "E14000575",
+                    "mp": null,
+                    "signature_count": 256
+                },
+                {
+                    "name": "Bognor Regis and Littlehampton",
+                    "ons_code": "E14000576",
+                    "mp": null,
+                    "signature_count": 198
+                },
+                {
+                    "name": "Bolsover",
+                    "ons_code": "E14000577",
+                    "mp": null,
+                    "signature_count": 352
+                },
+                {
+                    "name": "Bolton North East",
+                    "ons_code": "E14000578",
+                    "mp": null,
+                    "signature_count": 442
+                },
+                {
+                    "name": "Bolton South East",
+                    "ons_code": "E14000579",
+                    "mp": null,
+                    "signature_count": 560
+                },
+                {
+                    "name": "Bolton West",
+                    "ons_code": "E14000580",
+                    "mp": null,
+                    "signature_count": 439
+                },
+                {
+                    "name": "Bootle",
+                    "ons_code": "E14000581",
+                    "mp": null,
+                    "signature_count": 394
+                },
+                {
+                    "name": "Boston and Skegness",
+                    "ons_code": "E14000582",
+                    "mp": null,
+                    "signature_count": 235
+                },
+                {
+                    "name": "Bosworth",
+                    "ons_code": "E14000583",
+                    "mp": null,
+                    "signature_count": 294
+                },
+                {
+                    "name": "Bournemouth East",
+                    "ons_code": "E14000584",
+                    "mp": null,
+                    "signature_count": 199
+                },
+                {
+                    "name": "Bournemouth West",
+                    "ons_code": "E14000585",
+                    "mp": null,
+                    "signature_count": 212
+                },
+                {
+                    "name": "Bracknell",
+                    "ons_code": "E14000586",
+                    "mp": null,
+                    "signature_count": 320
+                },
+                {
+                    "name": "Bradford East",
+                    "ons_code": "E14000587",
+                    "mp": null,
+                    "signature_count": 677
+                },
+                {
+                    "name": "Bradford South",
+                    "ons_code": "E14000588",
+                    "mp": null,
+                    "signature_count": 595
+                },
+                {
+                    "name": "Bradford West",
+                    "ons_code": "E14000589",
+                    "mp": null,
+                    "signature_count": 644
+                },
+                {
+                    "name": "Braintree",
+                    "ons_code": "E14000590",
+                    "mp": null,
+                    "signature_count": 287
+                },
+                {
+                    "name": "Brecon and Radnorshire",
+                    "ons_code": "W07000068",
+                    "mp": null,
+                    "signature_count": 147
+                },
+                {
+                    "name": "Brent Central",
+                    "ons_code": "E14000591",
+                    "mp": null,
+                    "signature_count": 451
+                },
+                {
+                    "name": "Brent North",
+                    "ons_code": "E14000592",
+                    "mp": null,
+                    "signature_count": 420
+                },
+                {
+                    "name": "Brentford and Isleworth",
+                    "ons_code": "E14000593",
+                    "mp": null,
+                    "signature_count": 259
+                },
+                {
+                    "name": "Brentwood and Ongar",
+                    "ons_code": "E14000594",
+                    "mp": null,
+                    "signature_count": 254
+                },
+                {
+                    "name": "Bridgend",
+                    "ons_code": "W07000073",
+                    "mp": null,
+                    "signature_count": 172
+                },
+                {
+                    "name": "Bridgwater and West Somerset",
+                    "ons_code": "E14000595",
+                    "mp": null,
+                    "signature_count": 253
+                },
+                {
+                    "name": "Brigg and Goole",
+                    "ons_code": "E14000596",
+                    "mp": null,
+                    "signature_count": 330
+                },
+                {
+                    "name": "Brighton, Kemptown",
+                    "ons_code": "E14000597",
+                    "mp": null,
+                    "signature_count": 274
+                },
+                {
+                    "name": "Brighton, Pavilion",
+                    "ons_code": "E14000598",
+                    "mp": null,
+                    "signature_count": 167
+                },
+                {
+                    "name": "Bristol East",
+                    "ons_code": "E14000599",
+                    "mp": null,
+                    "signature_count": 288
+                },
+                {
+                    "name": "Bristol North West",
+                    "ons_code": "E14000600",
+                    "mp": null,
+                    "signature_count": 277
+                },
+                {
+                    "name": "Bristol South",
+                    "ons_code": "E14000601",
+                    "mp": null,
+                    "signature_count": 271
+                },
+                {
+                    "name": "Bristol West",
+                    "ons_code": "E14000602",
+                    "mp": null,
+                    "signature_count": 193
+                },
+                {
+                    "name": "Broadland",
+                    "ons_code": "E14000603",
+                    "mp": null,
+                    "signature_count": 207
+                },
+                {
+                    "name": "Bromley and Chislehurst",
+                    "ons_code": "E14000604",
+                    "mp": null,
+                    "signature_count": 180
+                },
+                {
+                    "name": "Bromsgrove",
+                    "ons_code": "E14000605",
+                    "mp": null,
+                    "signature_count": 225
+                },
+                {
+                    "name": "Broxbourne",
+                    "ons_code": "E14000606",
+                    "mp": null,
+                    "signature_count": 322
+                },
+                {
+                    "name": "Broxtowe",
+                    "ons_code": "E14000607",
+                    "mp": null,
+                    "signature_count": 231
+                },
+                {
+                    "name": "Buckingham",
+                    "ons_code": "E14000608",
+                    "mp": null,
+                    "signature_count": 261
+                },
+                {
+                    "name": "Burnley",
+                    "ons_code": "E14000609",
+                    "mp": null,
+                    "signature_count": 495
+                },
+                {
+                    "name": "Burton",
+                    "ons_code": "E14000610",
+                    "mp": null,
+                    "signature_count": 317
+                },
+                {
+                    "name": "Bury North",
+                    "ons_code": "E14000611",
+                    "mp": null,
+                    "signature_count": 348
+                },
+                {
+                    "name": "Bury South",
+                    "ons_code": "E14000612",
+                    "mp": null,
+                    "signature_count": 484
+                },
+                {
+                    "name": "Bury St Edmunds",
+                    "ons_code": "E14000613",
+                    "mp": null,
+                    "signature_count": 219
+                },
+                {
+                    "name": "Caerphilly",
+                    "ons_code": "W07000076",
+                    "mp": null,
+                    "signature_count": 308
+                },
+                {
+                    "name": "Calder Valley",
+                    "ons_code": "E14000614",
+                    "mp": null,
+                    "signature_count": 428
+                },
+                {
+                    "name": "Camberwell and Peckham",
+                    "ons_code": "E14000615",
+                    "mp": null,
+                    "signature_count": 288
+                },
+                {
+                    "name": "Camborne and Redruth",
+                    "ons_code": "E14000616",
+                    "mp": null,
+                    "signature_count": 299
+                },
+                {
+                    "name": "Cambridge",
+                    "ons_code": "E14000617",
+                    "mp": null,
+                    "signature_count": 116
+                },
+                {
+                    "name": "Cannock Chase",
+                    "ons_code": "E14000618",
+                    "mp": null,
+                    "signature_count": 301
+                },
+                {
+                    "name": "Canterbury",
+                    "ons_code": "E14000619",
+                    "mp": null,
+                    "signature_count": 235
+                },
+                {
+                    "name": "Cardiff Central",
+                    "ons_code": "W07000050",
+                    "mp": null,
+                    "signature_count": 203
+                },
+                {
+                    "name": "Cardiff North",
+                    "ons_code": "W07000051",
+                    "mp": null,
+                    "signature_count": 177
+                },
+                {
+                    "name": "Cardiff South and Penarth",
+                    "ons_code": "W07000080",
+                    "mp": null,
+                    "signature_count": 291
+                },
+                {
+                    "name": "Cardiff West",
+                    "ons_code": "W07000079",
+                    "mp": null,
+                    "signature_count": 201
+                },
+                {
+                    "name": "Carlisle",
+                    "ons_code": "E14000620",
+                    "mp": null,
+                    "signature_count": 159
+                },
+                {
+                    "name": "Carmarthen East and Dinefwr",
+                    "ons_code": "W07000067",
+                    "mp": null,
+                    "signature_count": 183
+                },
+                {
+                    "name": "Carmarthen West and South Pembrokeshire",
+                    "ons_code": "W07000066",
+                    "mp": null,
+                    "signature_count": 159
+                },
+                {
+                    "name": "Carshalton and Wallington",
+                    "ons_code": "E14000621",
+                    "mp": null,
+                    "signature_count": 337
+                },
+                {
+                    "name": "Castle Point",
+                    "ons_code": "E14000622",
+                    "mp": null,
+                    "signature_count": 282
+                },
+                {
+                    "name": "Central Devon",
+                    "ons_code": "E14000623",
+                    "mp": null,
+                    "signature_count": 152
+                },
+                {
+                    "name": "Central Suffolk and North Ipswich",
+                    "ons_code": "E14000624",
+                    "mp": null,
+                    "signature_count": 249
+                },
+                {
+                    "name": "Ceredigion",
+                    "ons_code": "W07000064",
+                    "mp": null,
+                    "signature_count": 115
+                },
+                {
+                    "name": "Charnwood",
+                    "ons_code": "E14000625",
+                    "mp": null,
+                    "signature_count": 250
+                },
+                {
+                    "name": "Chatham and Aylesford",
+                    "ons_code": "E14000626",
+                    "mp": null,
+                    "signature_count": 375
+                },
+                {
+                    "name": "Cheadle",
+                    "ons_code": "E14000627",
+                    "mp": null,
+                    "signature_count": 299
+                },
+                {
+                    "name": "Chelmsford",
+                    "ons_code": "E14000628",
+                    "mp": null,
+                    "signature_count": 283
+                },
+                {
+                    "name": "Chelsea and Fulham",
+                    "ons_code": "E14000629",
+                    "mp": null,
+                    "signature_count": 70
+                },
+                {
+                    "name": "Cheltenham",
+                    "ons_code": "E14000630",
+                    "mp": null,
+                    "signature_count": 178
+                },
+                {
+                    "name": "Chesham and Amersham",
+                    "ons_code": "E14000631",
+                    "mp": null,
+                    "signature_count": 207
+                },
+                {
+                    "name": "Chesterfield",
+                    "ons_code": "E14000632",
+                    "mp": null,
+                    "signature_count": 309
+                },
+                {
+                    "name": "Chichester",
+                    "ons_code": "E14000633",
+                    "mp": null,
+                    "signature_count": 188
+                },
+                {
+                    "name": "Chingford and Woodford Green",
+                    "ons_code": "E14000634",
+                    "mp": null,
+                    "signature_count": 300
+                },
+                {
+                    "name": "Chippenham",
+                    "ons_code": "E14000635",
+                    "mp": null,
+                    "signature_count": 170
+                },
+                {
+                    "name": "Chipping Barnet",
+                    "ons_code": "E14000636",
+                    "mp": null,
+                    "signature_count": 199
+                },
+                {
+                    "name": "Chorley",
+                    "ons_code": "E14000637",
+                    "mp": null,
+                    "signature_count": 462
+                },
+                {
+                    "name": "Christchurch",
+                    "ons_code": "E14000638",
+                    "mp": null,
+                    "signature_count": 139
+                },
+                {
+                    "name": "Cities of London and Westminster",
+                    "ons_code": "E14000639",
+                    "mp": null,
+                    "signature_count": 86
+                },
+                {
+                    "name": "City of Chester",
+                    "ons_code": "E14000640",
+                    "mp": null,
+                    "signature_count": 288
+                },
+                {
+                    "name": "City of Durham",
+                    "ons_code": "E14000641",
+                    "mp": null,
+                    "signature_count": 197
+                },
+                {
+                    "name": "Clacton",
+                    "ons_code": "E14000642",
+                    "mp": null,
+                    "signature_count": 274
+                },
+                {
+                    "name": "Cleethorpes",
+                    "ons_code": "E14000643",
+                    "mp": null,
+                    "signature_count": 276
+                },
+                {
+                    "name": "Clwyd South",
+                    "ons_code": "W07000062",
+                    "mp": null,
+                    "signature_count": 244
+                },
+                {
+                    "name": "Clwyd West",
+                    "ons_code": "W07000059",
+                    "mp": null,
+                    "signature_count": 197
+                },
+                {
+                    "name": "Colchester",
+                    "ons_code": "E14000644",
+                    "mp": null,
+                    "signature_count": 298
+                },
+                {
+                    "name": "Colne Valley",
+                    "ons_code": "E14000645",
+                    "mp": null,
+                    "signature_count": 402
+                },
+                {
+                    "name": "Congleton",
+                    "ons_code": "E14000646",
+                    "mp": null,
+                    "signature_count": 216
+                },
+                {
+                    "name": "Copeland",
+                    "ons_code": "E14000647",
+                    "mp": null,
+                    "signature_count": 103
+                },
+                {
+                    "name": "Corby",
+                    "ons_code": "E14000648",
+                    "mp": null,
+                    "signature_count": 425
+                },
+                {
+                    "name": "Coventry North East",
+                    "ons_code": "E14000649",
+                    "mp": null,
+                    "signature_count": 592
+                },
+                {
+                    "name": "Coventry North West",
+                    "ons_code": "E14000650",
+                    "mp": null,
+                    "signature_count": 436
+                },
+                {
+                    "name": "Coventry South",
+                    "ons_code": "E14000651",
+                    "mp": null,
+                    "signature_count": 355
+                },
+                {
+                    "name": "Crawley",
+                    "ons_code": "E14000652",
+                    "mp": null,
+                    "signature_count": 297
+                },
+                {
+                    "name": "Crewe and Nantwich",
+                    "ons_code": "E14000653",
+                    "mp": null,
+                    "signature_count": 233
+                },
+                {
+                    "name": "Croydon Central",
+                    "ons_code": "E14000654",
+                    "mp": null,
+                    "signature_count": 403
+                },
+                {
+                    "name": "Croydon North",
+                    "ons_code": "E14000655",
+                    "mp": null,
+                    "signature_count": 459
+                },
+                {
+                    "name": "Croydon South",
+                    "ons_code": "E14000656",
+                    "mp": null,
+                    "signature_count": 361
+                },
+                {
+                    "name": "Cynon Valley",
+                    "ons_code": "W07000070",
+                    "mp": null,
+                    "signature_count": 377
+                },
+                {
+                    "name": "Dagenham and Rainham",
+                    "ons_code": "E14000657",
+                    "mp": null,
+                    "signature_count": 474
+                },
+                {
+                    "name": "Darlington",
+                    "ons_code": "E14000658",
+                    "mp": null,
+                    "signature_count": 223
+                },
+                {
+                    "name": "Dartford",
+                    "ons_code": "E14000659",
+                    "mp": null,
+                    "signature_count": 297
+                },
+                {
+                    "name": "Daventry",
+                    "ons_code": "E14000660",
+                    "mp": null,
+                    "signature_count": 257
+                },
+                {
+                    "name": "Delyn",
+                    "ons_code": "W07000042",
+                    "mp": null,
+                    "signature_count": 293
+                },
+                {
+                    "name": "Denton and Reddish",
+                    "ons_code": "E14000661",
+                    "mp": null,
+                    "signature_count": 431
+                },
+                {
+                    "name": "Derby North",
+                    "ons_code": "E14000662",
+                    "mp": null,
+                    "signature_count": 353
+                },
+                {
+                    "name": "Derby South",
+                    "ons_code": "E14000663",
+                    "mp": null,
+                    "signature_count": 453
+                },
+                {
+                    "name": "Derbyshire Dales",
+                    "ons_code": "E14000664",
+                    "mp": null,
+                    "signature_count": 159
+                },
+                {
+                    "name": "Devizes",
+                    "ons_code": "E14000665",
+                    "mp": null,
+                    "signature_count": 149
+                },
+                {
+                    "name": "Dewsbury",
+                    "ons_code": "E14000666",
+                    "mp": null,
+                    "signature_count": 445
+                },
+                {
+                    "name": "Don Valley",
+                    "ons_code": "E14000667",
+                    "mp": null,
+                    "signature_count": 349
+                },
+                {
+                    "name": "Doncaster Central",
+                    "ons_code": "E14000668",
+                    "mp": null,
+                    "signature_count": 466
+                },
+                {
+                    "name": "Doncaster North",
+                    "ons_code": "E14000669",
+                    "mp": null,
+                    "signature_count": 423
+                },
+                {
+                    "name": "Dover",
+                    "ons_code": "E14000670",
+                    "mp": null,
+                    "signature_count": 145
+                },
+                {
+                    "name": "Dudley North",
+                    "ons_code": "E14000671",
+                    "mp": null,
+                    "signature_count": 360
+                },
+                {
+                    "name": "Dudley South",
+                    "ons_code": "E14000672",
+                    "mp": null,
+                    "signature_count": 352
+                },
+                {
+                    "name": "Dulwich and West Norwood",
+                    "ons_code": "E14000673",
+                    "mp": null,
+                    "signature_count": 228
+                },
+                {
+                    "name": "Dwyfor Meirionnydd",
+                    "ons_code": "W07000061",
+                    "mp": null,
+                    "signature_count": 158
+                },
+                {
+                    "name": "Ealing Central and Acton",
+                    "ons_code": "E14000674",
+                    "mp": null,
+                    "signature_count": 198
+                },
+                {
+                    "name": "Ealing North",
+                    "ons_code": "E14000675",
+                    "mp": null,
+                    "signature_count": 480
+                },
+                {
+                    "name": "Ealing, Southall",
+                    "ons_code": "E14000676",
+                    "mp": null,
+                    "signature_count": 372
+                },
+                {
+                    "name": "Easington",
+                    "ons_code": "E14000677",
+                    "mp": null,
+                    "signature_count": 282
+                },
+                {
+                    "name": "East Antrim",
+                    "ons_code": "N06000005",
+                    "mp": null,
+                    "signature_count": 407
+                },
+                {
+                    "name": "East Devon",
+                    "ons_code": "E14000678",
+                    "mp": null,
+                    "signature_count": 105
+                },
+                {
+                    "name": "East Ham",
+                    "ons_code": "E14000679",
+                    "mp": null,
+                    "signature_count": 488
+                },
+                {
+                    "name": "East Hampshire",
+                    "ons_code": "E14000680",
+                    "mp": null,
+                    "signature_count": 158
+                },
+                {
+                    "name": "East Londonderry",
+                    "ons_code": "N06000006",
+                    "mp": null,
+                    "signature_count": 284
+                },
+                {
+                    "name": "East Surrey",
+                    "ons_code": "E14000681",
+                    "mp": null,
+                    "signature_count": 235
+                },
+                {
+                    "name": "East Worthing and Shoreham",
+                    "ons_code": "E14000682",
+                    "mp": null,
+                    "signature_count": 226
+                },
+                {
+                    "name": "East Yorkshire",
+                    "ons_code": "E14000683",
+                    "mp": null,
+                    "signature_count": 199
+                },
+                {
+                    "name": "Eastbourne",
+                    "ons_code": "E14000684",
+                    "mp": null,
+                    "signature_count": 218
+                },
+                {
+                    "name": "Eastleigh",
+                    "ons_code": "E14000685",
+                    "mp": null,
+                    "signature_count": 274
+                },
+                {
+                    "name": "Eddisbury",
+                    "ons_code": "E14000686",
+                    "mp": null,
+                    "signature_count": 247
+                },
+                {
+                    "name": "Edmonton",
+                    "ons_code": "E14000687",
+                    "mp": null,
+                    "signature_count": 369
+                },
+                {
+                    "name": "Ellesmere Port and Neston",
+                    "ons_code": "E14000688",
+                    "mp": null,
+                    "signature_count": 318
+                },
+                {
+                    "name": "Elmet and Rothwell",
+                    "ons_code": "E14000689",
+                    "mp": null,
+                    "signature_count": 330
+                },
+                {
+                    "name": "Eltham",
+                    "ons_code": "E14000690",
+                    "mp": null,
+                    "signature_count": 195
+                },
+                {
+                    "name": "Enfield North",
+                    "ons_code": "E14000691",
+                    "mp": null,
+                    "signature_count": 342
+                },
+                {
+                    "name": "Enfield, Southgate",
+                    "ons_code": "E14000692",
+                    "mp": null,
+                    "signature_count": 201
+                },
+                {
+                    "name": "Epping Forest",
+                    "ons_code": "E14000693",
+                    "mp": null,
+                    "signature_count": 279
+                },
+                {
+                    "name": "Epsom and Ewell",
+                    "ons_code": "E14000694",
+                    "mp": null,
+                    "signature_count": 192
+                },
+                {
+                    "name": "Erewash",
+                    "ons_code": "E14000695",
+                    "mp": null,
+                    "signature_count": 287
+                },
+                {
+                    "name": "Erith and Thamesmead",
+                    "ons_code": "E14000696",
+                    "mp": null,
+                    "signature_count": 276
+                },
+                {
+                    "name": "Esher and Walton",
+                    "ons_code": "E14000697",
+                    "mp": null,
+                    "signature_count": 217
+                },
+                {
+                    "name": "Exeter",
+                    "ons_code": "E14000698",
+                    "mp": null,
+                    "signature_count": 157
+                },
+                {
+                    "name": "Fareham",
+                    "ons_code": "E14000699",
+                    "mp": null,
+                    "signature_count": 149
+                },
+                {
+                    "name": "Faversham and Mid Kent",
+                    "ons_code": "E14000700",
+                    "mp": null,
+                    "signature_count": 230
+                },
+                {
+                    "name": "Feltham and Heston",
+                    "ons_code": "E14000701",
+                    "mp": null,
+                    "signature_count": 536
+                },
+                {
+                    "name": "Fermanagh and South Tyrone",
+                    "ons_code": "N06000007",
+                    "mp": null,
+                    "signature_count": 273
+                },
+                {
+                    "name": "Filton and Bradley Stoke",
+                    "ons_code": "E14000702",
+                    "mp": null,
+                    "signature_count": 266
+                },
+                {
+                    "name": "Finchley and Golders Green",
+                    "ons_code": "E14000703",
+                    "mp": null,
+                    "signature_count": 253
+                },
+                {
+                    "name": "Folkestone and Hythe",
+                    "ons_code": "E14000704",
+                    "mp": null,
+                    "signature_count": 222
+                },
+                {
+                    "name": "Forest of Dean",
+                    "ons_code": "E14000705",
+                    "mp": null,
+                    "signature_count": 214
+                },
+                {
+                    "name": "Foyle",
+                    "ons_code": "N06000008",
+                    "mp": null,
+                    "signature_count": 454
+                },
+                {
+                    "name": "Fylde",
+                    "ons_code": "E14000706",
+                    "mp": null,
+                    "signature_count": 199
+                },
+                {
+                    "name": "Gainsborough",
+                    "ons_code": "E14000707",
+                    "mp": null,
+                    "signature_count": 261
+                },
+                {
+                    "name": "Garston and Halewood",
+                    "ons_code": "E14000708",
+                    "mp": null,
+                    "signature_count": 390
+                },
+                {
+                    "name": "Gateshead",
+                    "ons_code": "E14000709",
+                    "mp": null,
+                    "signature_count": 249
+                },
+                {
+                    "name": "Gedling",
+                    "ons_code": "E14000710",
+                    "mp": null,
+                    "signature_count": 277
+                },
+                {
+                    "name": "Gillingham and Rainham",
+                    "ons_code": "E14000711",
+                    "mp": null,
+                    "signature_count": 370
+                },
+                {
+                    "name": "Gloucester",
+                    "ons_code": "E14000712",
+                    "mp": null,
+                    "signature_count": 278
+                },
+                {
+                    "name": "Gosport",
+                    "ons_code": "E14000713",
+                    "mp": null,
+                    "signature_count": 183
+                },
+                {
+                    "name": "Gower",
+                    "ons_code": "W07000046",
+                    "mp": null,
+                    "signature_count": 265
+                },
+                {
+                    "name": "Grantham and Stamford",
+                    "ons_code": "E14000714",
+                    "mp": null,
+                    "signature_count": 278
+                },
+                {
+                    "name": "Gravesham",
+                    "ons_code": "E14000715",
+                    "mp": null,
+                    "signature_count": 299
+                },
+                {
+                    "name": "Great Grimsby",
+                    "ons_code": "E14000716",
+                    "mp": null,
+                    "signature_count": 201
+                },
+                {
+                    "name": "Great Yarmouth",
+                    "ons_code": "E14000717",
+                    "mp": null,
+                    "signature_count": 292
+                },
+                {
+                    "name": "Greenwich and Woolwich",
+                    "ons_code": "E14000718",
+                    "mp": null,
+                    "signature_count": 191
+                },
+                {
+                    "name": "Guildford",
+                    "ons_code": "E14000719",
+                    "mp": null,
+                    "signature_count": 263
+                },
+                {
+                    "name": "Hackney North and Stoke Newington",
+                    "ons_code": "E14000720",
+                    "mp": null,
+                    "signature_count": 293
+                },
+                {
+                    "name": "Hackney South and Shoreditch",
+                    "ons_code": "E14000721",
+                    "mp": null,
+                    "signature_count": 243
+                },
+                {
+                    "name": "Halesowen and Rowley Regis",
+                    "ons_code": "E14000722",
+                    "mp": null,
+                    "signature_count": 280
+                },
+                {
+                    "name": "Halifax",
+                    "ons_code": "E14000723",
+                    "mp": null,
+                    "signature_count": 484
+                },
+                {
+                    "name": "Haltemprice and Howden",
+                    "ons_code": "E14000724",
+                    "mp": null,
+                    "signature_count": 159
+                },
+                {
+                    "name": "Halton",
+                    "ons_code": "E14000725",
+                    "mp": null,
+                    "signature_count": 367
+                },
+                {
+                    "name": "Hammersmith",
+                    "ons_code": "E14000726",
+                    "mp": null,
+                    "signature_count": 150
+                },
+                {
+                    "name": "Hampstead and Kilburn",
+                    "ons_code": "E14000727",
+                    "mp": null,
+                    "signature_count": 133
+                },
+                {
+                    "name": "Harborough",
+                    "ons_code": "E14000728",
+                    "mp": null,
+                    "signature_count": 301
+                },
+                {
+                    "name": "Harlow",
+                    "ons_code": "E14000729",
+                    "mp": null,
+                    "signature_count": 328
+                },
+                {
+                    "name": "Harrogate and Knaresborough",
+                    "ons_code": "E14000730",
+                    "mp": null,
+                    "signature_count": 188
+                },
+                {
+                    "name": "Harrow East",
+                    "ons_code": "E14000731",
+                    "mp": null,
+                    "signature_count": 408
+                },
+                {
+                    "name": "Harrow West",
+                    "ons_code": "E14000732",
+                    "mp": null,
+                    "signature_count": 446
+                },
+                {
+                    "name": "Hartlepool",
+                    "ons_code": "E14000733",
+                    "mp": null,
+                    "signature_count": 423
+                },
+                {
+                    "name": "Harwich and North Essex",
+                    "ons_code": "E14000734",
+                    "mp": null,
+                    "signature_count": 237
+                },
+                {
+                    "name": "Hastings and Rye",
+                    "ons_code": "E14000735",
+                    "mp": null,
+                    "signature_count": 250
+                },
+                {
+                    "name": "Havant",
+                    "ons_code": "E14000736",
+                    "mp": null,
+                    "signature_count": 206
+                },
+                {
+                    "name": "Hayes and Harlington",
+                    "ons_code": "E14000737",
+                    "mp": null,
+                    "signature_count": 644
+                },
+                {
+                    "name": "Hazel Grove",
+                    "ons_code": "E14000738",
+                    "mp": null,
+                    "signature_count": 300
+                },
+                {
+                    "name": "Hemel Hempstead",
+                    "ons_code": "E14000739",
+                    "mp": null,
+                    "signature_count": 346
+                },
+                {
+                    "name": "Hemsworth",
+                    "ons_code": "E14000740",
+                    "mp": null,
+                    "signature_count": 497
+                },
+                {
+                    "name": "Hendon",
+                    "ons_code": "E14000741",
+                    "mp": null,
+                    "signature_count": 464
+                },
+                {
+                    "name": "Henley",
+                    "ons_code": "E14000742",
+                    "mp": null,
+                    "signature_count": 169
+                },
+                {
+                    "name": "Hereford and South Herefordshire",
+                    "ons_code": "E14000743",
+                    "mp": null,
+                    "signature_count": 173
+                },
+                {
+                    "name": "Hertford and Stortford",
+                    "ons_code": "E14000744",
+                    "mp": null,
+                    "signature_count": 236
+                },
+                {
+                    "name": "Hertsmere",
+                    "ons_code": "E14000745",
+                    "mp": null,
+                    "signature_count": 316
+                },
+                {
+                    "name": "Hexham",
+                    "ons_code": "E14000746",
+                    "mp": null,
+                    "signature_count": 167
+                },
+                {
+                    "name": "Heywood and Middleton",
+                    "ons_code": "E14000747",
+                    "mp": null,
+                    "signature_count": 513
+                },
+                {
+                    "name": "High Peak",
+                    "ons_code": "E14000748",
+                    "mp": null,
+                    "signature_count": 258
+                },
+                {
+                    "name": "Hitchin and Harpenden",
+                    "ons_code": "E14000749",
+                    "mp": null,
+                    "signature_count": 201
+                },
+                {
+                    "name": "Holborn and St Pancras",
+                    "ons_code": "E14000750",
+                    "mp": null,
+                    "signature_count": 176
+                },
+                {
+                    "name": "Hornchurch and Upminster",
+                    "ons_code": "E14000751",
+                    "mp": null,
+                    "signature_count": 360
+                },
+                {
+                    "name": "Hornsey and Wood Green",
+                    "ons_code": "E14000752",
+                    "mp": null,
+                    "signature_count": 191
+                },
+                {
+                    "name": "Horsham",
+                    "ons_code": "E14000753",
+                    "mp": null,
+                    "signature_count": 265
+                },
+                {
+                    "name": "Houghton and Sunderland South",
+                    "ons_code": "E14000754",
+                    "mp": null,
+                    "signature_count": 353
+                },
+                {
+                    "name": "Hove",
+                    "ons_code": "E14000755",
+                    "mp": null,
+                    "signature_count": 159
+                },
+                {
+                    "name": "Huddersfield",
+                    "ons_code": "E14000756",
+                    "mp": null,
+                    "signature_count": 461
+                },
+                {
+                    "name": "Huntingdon",
+                    "ons_code": "E14000757",
+                    "mp": null,
+                    "signature_count": 244
+                },
+                {
+                    "name": "Hyndburn",
+                    "ons_code": "E14000758",
+                    "mp": null,
+                    "signature_count": 589
+                },
+                {
+                    "name": "Ilford North",
+                    "ons_code": "E14000759",
+                    "mp": null,
+                    "signature_count": 346
+                },
+                {
+                    "name": "Ilford South",
+                    "ons_code": "E14000760",
+                    "mp": null,
+                    "signature_count": 399
+                },
+                {
+                    "name": "Ipswich",
+                    "ons_code": "E14000761",
+                    "mp": null,
+                    "signature_count": 293
+                },
+                {
+                    "name": "Isle of Wight",
+                    "ons_code": "E14000762",
+                    "mp": null,
+                    "signature_count": 151
+                },
+                {
+                    "name": "Islington North",
+                    "ons_code": "E14000763",
+                    "mp": null,
+                    "signature_count": 162
+                },
+                {
+                    "name": "Islington South and Finsbury",
+                    "ons_code": "E14000764",
+                    "mp": null,
+                    "signature_count": 139
+                },
+                {
+                    "name": "Islwyn",
+                    "ons_code": "W07000077",
+                    "mp": null,
+                    "signature_count": 289
+                },
+                {
+                    "name": "Jarrow",
+                    "ons_code": "E14000765",
+                    "mp": null,
+                    "signature_count": 257
+                },
+                {
+                    "name": "Keighley",
+                    "ons_code": "E14000766",
+                    "mp": null,
+                    "signature_count": 428
+                },
+                {
+                    "name": "Kenilworth and Southam",
+                    "ons_code": "E14000767",
+                    "mp": null,
+                    "signature_count": 168
+                },
+                {
+                    "name": "Kensington",
+                    "ons_code": "E14000768",
+                    "mp": null,
+                    "signature_count": 112
+                },
+                {
+                    "name": "Kettering",
+                    "ons_code": "E14000769",
+                    "mp": null,
+                    "signature_count": 276
+                },
+                {
+                    "name": "Kingston and Surbiton",
+                    "ons_code": "E14000770",
+                    "mp": null,
+                    "signature_count": 249
+                },
+                {
+                    "name": "Kingston upon Hull East",
+                    "ons_code": "E14000771",
+                    "mp": null,
+                    "signature_count": 291
+                },
+                {
+                    "name": "Kingston upon Hull North",
+                    "ons_code": "E14000772",
+                    "mp": null,
+                    "signature_count": 249
+                },
+                {
+                    "name": "Kingston upon Hull West and Hessle",
+                    "ons_code": "E14000773",
+                    "mp": null,
+                    "signature_count": 189
+                },
+                {
+                    "name": "Kingswood",
+                    "ons_code": "E14000774",
+                    "mp": null,
+                    "signature_count": 319
+                },
+                {
+                    "name": "Knowsley",
+                    "ons_code": "E14000775",
+                    "mp": null,
+                    "signature_count": 583
+                },
+                {
+                    "name": "Lagan Valley",
+                    "ons_code": "N06000009",
+                    "mp": null,
+                    "signature_count": 324
+                },
+                {
+                    "name": "Lancaster and Fleetwood",
+                    "ons_code": "E14000776",
+                    "mp": null,
+                    "signature_count": 232
+                },
+                {
+                    "name": "Leeds Central",
+                    "ons_code": "E14000777",
+                    "mp": null,
+                    "signature_count": 530
+                },
+                {
+                    "name": "Leeds East",
+                    "ons_code": "E14000778",
+                    "mp": null,
+                    "signature_count": 466
+                },
+                {
+                    "name": "Leeds North East",
+                    "ons_code": "E14000779",
+                    "mp": null,
+                    "signature_count": 349
+                },
+                {
+                    "name": "Leeds North West",
+                    "ons_code": "E14000780",
+                    "mp": null,
+                    "signature_count": 232
+                },
+                {
+                    "name": "Leeds West",
+                    "ons_code": "E14000781",
+                    "mp": null,
+                    "signature_count": 445
+                },
+                {
+                    "name": "Leicester East",
+                    "ons_code": "E14000782",
+                    "mp": null,
+                    "signature_count": 603
+                },
+                {
+                    "name": "Leicester South",
+                    "ons_code": "E14000783",
+                    "mp": null,
+                    "signature_count": 504
+                },
+                {
+                    "name": "Leicester West",
+                    "ons_code": "E14000784",
+                    "mp": null,
+                    "signature_count": 326
+                },
+                {
+                    "name": "Leigh",
+                    "ons_code": "E14000785",
+                    "mp": null,
+                    "signature_count": 448
+                },
+                {
+                    "name": "Lewes",
+                    "ons_code": "E14000786",
+                    "mp": null,
+                    "signature_count": 194
+                },
+                {
+                    "name": "Lewisham East",
+                    "ons_code": "E14000787",
+                    "mp": null,
+                    "signature_count": 234
+                },
+                {
+                    "name": "Lewisham West and Penge",
+                    "ons_code": "E14000788",
+                    "mp": null,
+                    "signature_count": 224
+                },
+                {
+                    "name": "Lewisham, Deptford",
+                    "ons_code": "E14000789",
+                    "mp": null,
+                    "signature_count": 226
+                },
+                {
+                    "name": "Leyton and Wanstead",
+                    "ons_code": "E14000790",
+                    "mp": null,
+                    "signature_count": 236
+                },
+                {
+                    "name": "Lichfield",
+                    "ons_code": "E14000791",
+                    "mp": null,
+                    "signature_count": 238
+                },
+                {
+                    "name": "Lincoln",
+                    "ons_code": "E14000792",
+                    "mp": null,
+                    "signature_count": 374
+                },
+                {
+                    "name": "Liverpool, Riverside",
+                    "ons_code": "E14000793",
+                    "mp": null,
+                    "signature_count": 396
+                },
+                {
+                    "name": "Liverpool, Walton",
+                    "ons_code": "E14000794",
+                    "mp": null,
+                    "signature_count": 429
+                },
+                {
+                    "name": "Liverpool, Wavertree",
+                    "ons_code": "E14000795",
+                    "mp": null,
+                    "signature_count": 298
+                },
+                {
+                    "name": "Liverpool, West Derby",
+                    "ons_code": "E14000796",
+                    "mp": null,
+                    "signature_count": 364
+                },
+                {
+                    "name": "Llanelli",
+                    "ons_code": "W07000045",
+                    "mp": null,
+                    "signature_count": 269
+                },
+                {
+                    "name": "Loughborough",
+                    "ons_code": "E14000797",
+                    "mp": null,
+                    "signature_count": 229
+                },
+                {
+                    "name": "Louth and Horncastle",
+                    "ons_code": "E14000798",
+                    "mp": null,
+                    "signature_count": 263
+                },
+                {
+                    "name": "Ludlow",
+                    "ons_code": "E14000799",
+                    "mp": null,
+                    "signature_count": 218
+                },
+                {
+                    "name": "Luton North",
+                    "ons_code": "E14000800",
+                    "mp": null,
+                    "signature_count": 505
+                },
+                {
+                    "name": "Luton South",
+                    "ons_code": "E14000801",
+                    "mp": null,
+                    "signature_count": 478
+                },
+                {
+                    "name": "Macclesfield",
+                    "ons_code": "E14000802",
+                    "mp": null,
+                    "signature_count": 248
+                },
+                {
+                    "name": "Maidenhead",
+                    "ons_code": "E14000803",
+                    "mp": null,
+                    "signature_count": 268
+                },
+                {
+                    "name": "Maidstone and The Weald",
+                    "ons_code": "E14000804",
+                    "mp": null,
+                    "signature_count": 247
+                },
+                {
+                    "name": "Makerfield",
+                    "ons_code": "E14000805",
+                    "mp": null,
+                    "signature_count": 401
+                },
+                {
+                    "name": "Maldon",
+                    "ons_code": "E14000806",
+                    "mp": null,
+                    "signature_count": 258
+                },
+                {
+                    "name": "Manchester Central",
+                    "ons_code": "E14000807",
+                    "mp": null,
+                    "signature_count": 477
+                },
+                {
+                    "name": "Manchester, Gorton",
+                    "ons_code": "E14000808",
+                    "mp": null,
+                    "signature_count": 539
+                },
+                {
+                    "name": "Manchester, Withington",
+                    "ons_code": "E14000809",
+                    "mp": null,
+                    "signature_count": 307
+                },
+                {
+                    "name": "Mansfield",
+                    "ons_code": "E14000810",
+                    "mp": null,
+                    "signature_count": 321
+                },
+                {
+                    "name": "Airdrie and Shotts",
+                    "ons_code": "S14000003",
+                    "mp": null,
+                    "signature_count": 252
+                },
+                {
+                    "name": "Meon Valley",
+                    "ons_code": "E14000811",
+                    "mp": null,
+                    "signature_count": 184
+                },
+                {
+                    "name": "Meriden",
+                    "ons_code": "E14000812",
+                    "mp": null,
+                    "signature_count": 369
+                },
+                {
+                    "name": "Merthyr Tydfil and Rhymney",
+                    "ons_code": "W07000071",
+                    "mp": null,
+                    "signature_count": 276
+                },
+                {
+                    "name": "Mid Bedfordshire",
+                    "ons_code": "E14000813",
+                    "mp": null,
+                    "signature_count": 400
+                },
+                {
+                    "name": "Mid Derbyshire",
+                    "ons_code": "E14000814",
+                    "mp": null,
+                    "signature_count": 225
+                },
+                {
+                    "name": "Mid Dorset and North Poole",
+                    "ons_code": "E14000815",
+                    "mp": null,
+                    "signature_count": 144
+                },
+                {
+                    "name": "Mid Norfolk",
+                    "ons_code": "E14000816",
+                    "mp": null,
+                    "signature_count": 186
+                },
+                {
+                    "name": "Mid Sussex",
+                    "ons_code": "E14000817",
+                    "mp": null,
+                    "signature_count": 180
+                },
+                {
+                    "name": "Mid Ulster",
+                    "ons_code": "N06000010",
+                    "mp": null,
+                    "signature_count": 382
+                },
+                {
+                    "name": "Mid Worcestershire",
+                    "ons_code": "E14000818",
+                    "mp": null,
+                    "signature_count": 213
+                },
+                {
+                    "name": "Middlesbrough",
+                    "ons_code": "E14000819",
+                    "mp": null,
+                    "signature_count": 378
+                },
+                {
+                    "name": "Middlesbrough South and East Cleveland",
+                    "ons_code": "E14000820",
+                    "mp": null,
+                    "signature_count": 359
+                },
+                {
+                    "name": "Milton Keynes North",
+                    "ons_code": "E14000821",
+                    "mp": null,
+                    "signature_count": 374
+                },
+                {
+                    "name": "Milton Keynes South",
+                    "ons_code": "E14000822",
+                    "mp": null,
+                    "signature_count": 459
+                },
+                {
+                    "name": "Mitcham and Morden",
+                    "ons_code": "E14000823",
+                    "mp": null,
+                    "signature_count": 278
+                },
+                {
+                    "name": "Mole Valley",
+                    "ons_code": "E14000824",
+                    "mp": null,
+                    "signature_count": 195
+                },
+                {
+                    "name": "Monmouth",
+                    "ons_code": "W07000054",
+                    "mp": null,
+                    "signature_count": 143
+                },
+                {
+                    "name": "Montgomeryshire",
+                    "ons_code": "W07000063",
+                    "mp": null,
+                    "signature_count": 134
+                },
+                {
+                    "name": "Morecambe and Lunesdale",
+                    "ons_code": "E14000825",
+                    "mp": null,
+                    "signature_count": 212
+                },
+                {
+                    "name": "Morley and Outwood",
+                    "ons_code": "E14000826",
+                    "mp": null,
+                    "signature_count": 486
+                },
+                {
+                    "name": "Neath",
+                    "ons_code": "W07000069",
+                    "mp": null,
+                    "signature_count": 269
+                },
+                {
+                    "name": "New Forest East",
+                    "ons_code": "E14000827",
+                    "mp": null,
+                    "signature_count": 212
+                },
+                {
+                    "name": "New Forest West",
+                    "ons_code": "E14000828",
+                    "mp": null,
+                    "signature_count": 165
+                },
+                {
+                    "name": "Newark",
+                    "ons_code": "E14000829",
+                    "mp": null,
+                    "signature_count": 307
+                },
+                {
+                    "name": "Newbury",
+                    "ons_code": "E14000830",
+                    "mp": null,
+                    "signature_count": 241
+                },
+                {
+                    "name": "Newcastle upon Tyne Central",
+                    "ons_code": "E14000831",
+                    "mp": null,
+                    "signature_count": 261
+                },
+                {
+                    "name": "Newcastle upon Tyne East",
+                    "ons_code": "E14000832",
+                    "mp": null,
+                    "signature_count": 265
+                },
+                {
+                    "name": "Newcastle upon Tyne North",
+                    "ons_code": "E14000833",
+                    "mp": null,
+                    "signature_count": 235
+                },
+                {
+                    "name": "Newcastle-under-Lyme",
+                    "ons_code": "E14000834",
+                    "mp": null,
+                    "signature_count": 256
+                },
+                {
+                    "name": "Newport East",
+                    "ons_code": "W07000055",
+                    "mp": null,
+                    "signature_count": 223
+                },
+                {
+                    "name": "Newport West",
+                    "ons_code": "W07000056",
+                    "mp": null,
+                    "signature_count": 206
+                },
+                {
+                    "name": "Newry and Armagh",
+                    "ons_code": "N06000011",
+                    "mp": null,
+                    "signature_count": 391
+                },
+                {
+                    "name": "Newton Abbot",
+                    "ons_code": "E14000835",
+                    "mp": null,
+                    "signature_count": 135
+                },
+                {
+                    "name": "Normanton, Pontefract and Castleford",
+                    "ons_code": "E14000836",
+                    "mp": null,
+                    "signature_count": 538
+                },
+                {
+                    "name": "North Antrim",
+                    "ons_code": "N06000012",
+                    "mp": null,
+                    "signature_count": 362
+                },
+                {
+                    "name": "North Cornwall",
+                    "ons_code": "E14000837",
+                    "mp": null,
+                    "signature_count": 158
+                },
+                {
+                    "name": "North Devon",
+                    "ons_code": "E14000838",
+                    "mp": null,
+                    "signature_count": 129
+                },
+                {
+                    "name": "North Dorset",
+                    "ons_code": "E14000839",
+                    "mp": null,
+                    "signature_count": 151
+                },
+                {
+                    "name": "North Down",
+                    "ons_code": "N06000013",
+                    "mp": null,
+                    "signature_count": 243
+                },
+                {
+                    "name": "North Durham",
+                    "ons_code": "E14000840",
+                    "mp": null,
+                    "signature_count": 213
+                },
+                {
+                    "name": "North East Bedfordshire",
+                    "ons_code": "E14000841",
+                    "mp": null,
+                    "signature_count": 311
+                },
+                {
+                    "name": "North East Cambridgeshire",
+                    "ons_code": "E14000842",
+                    "mp": null,
+                    "signature_count": 246
+                },
+                {
+                    "name": "North East Derbyshire",
+                    "ons_code": "E14000843",
+                    "mp": null,
+                    "signature_count": 344
+                },
+                {
+                    "name": "North East Hampshire",
+                    "ons_code": "E14000844",
+                    "mp": null,
+                    "signature_count": 207
+                },
+                {
+                    "name": "North East Hertfordshire",
+                    "ons_code": "E14000845",
+                    "mp": null,
+                    "signature_count": 238
+                },
+                {
+                    "name": "North East Somerset",
+                    "ons_code": "E14000846",
+                    "mp": null,
+                    "signature_count": 174
+                },
+                {
+                    "name": "North Herefordshire",
+                    "ons_code": "E14000847",
+                    "mp": null,
+                    "signature_count": 183
+                },
+                {
+                    "name": "North Norfolk",
+                    "ons_code": "E14000848",
+                    "mp": null,
+                    "signature_count": 186
+                },
+                {
+                    "name": "North Shropshire",
+                    "ons_code": "E14000849",
+                    "mp": null,
+                    "signature_count": 300
+                },
+                {
+                    "name": "North Somerset",
+                    "ons_code": "E14000850",
+                    "mp": null,
+                    "signature_count": 232
+                },
+                {
+                    "name": "North Swindon",
+                    "ons_code": "E14000851",
+                    "mp": null,
+                    "signature_count": 175
+                },
+                {
+                    "name": "North Thanet",
+                    "ons_code": "E14000852",
+                    "mp": null,
+                    "signature_count": 239
+                },
+                {
+                    "name": "North Tyneside",
+                    "ons_code": "E14000853",
+                    "mp": null,
+                    "signature_count": 287
+                },
+                {
+                    "name": "North Warwickshire",
+                    "ons_code": "E14000854",
+                    "mp": null,
+                    "signature_count": 308
+                },
+                {
+                    "name": "North West Cambridgeshire",
+                    "ons_code": "E14000855",
+                    "mp": null,
+                    "signature_count": 257
+                },
+                {
+                    "name": "North West Durham",
+                    "ons_code": "E14000856",
+                    "mp": null,
+                    "signature_count": 264
+                },
+                {
+                    "name": "North West Hampshire",
+                    "ons_code": "E14000857",
+                    "mp": null,
+                    "signature_count": 158
+                },
+                {
+                    "name": "North West Leicestershire",
+                    "ons_code": "E14000858",
+                    "mp": null,
+                    "signature_count": 295
+                },
+                {
+                    "name": "North West Norfolk",
+                    "ons_code": "E14000859",
+                    "mp": null,
+                    "signature_count": 214
+                },
+                {
+                    "name": "North Wiltshire",
+                    "ons_code": "E14000860",
+                    "mp": null,
+                    "signature_count": 178
+                },
+                {
+                    "name": "Northampton North",
+                    "ons_code": "E14000861",
+                    "mp": null,
+                    "signature_count": 277
+                },
+                {
+                    "name": "Northampton South",
+                    "ons_code": "E14000862",
+                    "mp": null,
+                    "signature_count": 252
+                },
+                {
+                    "name": "Norwich North",
+                    "ons_code": "E14000863",
+                    "mp": null,
+                    "signature_count": 209
+                },
+                {
+                    "name": "Norwich South",
+                    "ons_code": "E14000864",
+                    "mp": null,
+                    "signature_count": 166
+                },
+                {
+                    "name": "Nottingham East",
+                    "ons_code": "E14000865",
+                    "mp": null,
+                    "signature_count": 298
+                },
+                {
+                    "name": "Nottingham North",
+                    "ons_code": "E14000866",
+                    "mp": null,
+                    "signature_count": 418
+                },
+                {
+                    "name": "Nottingham South",
+                    "ons_code": "E14000867",
+                    "mp": null,
+                    "signature_count": 344
+                },
+                {
+                    "name": "Nuneaton",
+                    "ons_code": "E14000868",
+                    "mp": null,
+                    "signature_count": 277
+                },
+                {
+                    "name": "Ogmore",
+                    "ons_code": "W07000074",
+                    "mp": null,
+                    "signature_count": 192
+                },
+                {
+                    "name": "Old Bexley and Sidcup",
+                    "ons_code": "E14000869",
+                    "mp": null,
+                    "signature_count": 193
+                },
+                {
+                    "name": "Oldham East and Saddleworth",
+                    "ons_code": "E14000870",
+                    "mp": null,
+                    "signature_count": 558
+                },
+                {
+                    "name": "Oldham West and Royton",
+                    "ons_code": "E14000871",
+                    "mp": null,
+                    "signature_count": 695
+                },
+                {
+                    "name": "Orpington",
+                    "ons_code": "E14000872",
+                    "mp": null,
+                    "signature_count": 207
+                },
+                {
+                    "name": "Oxford East",
+                    "ons_code": "E14000873",
+                    "mp": null,
+                    "signature_count": 139
+                },
+                {
+                    "name": "Oxford West and Abingdon",
+                    "ons_code": "E14000874",
+                    "mp": null,
+                    "signature_count": 99
+                },
+                {
+                    "name": "Pendle",
+                    "ons_code": "E14000875",
+                    "mp": null,
+                    "signature_count": 437
+                },
+                {
+                    "name": "Penistone and Stocksbridge",
+                    "ons_code": "E14000876",
+                    "mp": null,
+                    "signature_count": 305
+                },
+                {
+                    "name": "Penrith and The Border",
+                    "ons_code": "E14000877",
+                    "mp": null,
+                    "signature_count": 224
+                },
+                {
+                    "name": "Peterborough",
+                    "ons_code": "E14000878",
+                    "mp": null,
+                    "signature_count": 357
+                },
+                {
+                    "name": "Plymouth, Moor View",
+                    "ons_code": "E14000879",
+                    "mp": null,
+                    "signature_count": 272
+                },
+                {
+                    "name": "Plymouth, Sutton and Devonport",
+                    "ons_code": "E14000880",
+                    "mp": null,
+                    "signature_count": 271
+                },
+                {
+                    "name": "Pontypridd",
+                    "ons_code": "W07000075",
+                    "mp": null,
+                    "signature_count": 305
+                },
+                {
+                    "name": "Poole",
+                    "ons_code": "E14000881",
+                    "mp": null,
+                    "signature_count": 147
+                },
+                {
+                    "name": "Poplar and Limehouse",
+                    "ons_code": "E14000882",
+                    "mp": null,
+                    "signature_count": 364
+                },
+                {
+                    "name": "Portsmouth North",
+                    "ons_code": "E14000883",
+                    "mp": null,
+                    "signature_count": 178
+                },
+                {
+                    "name": "Portsmouth South",
+                    "ons_code": "E14000884",
+                    "mp": null,
+                    "signature_count": 171
+                },
+                {
+                    "name": "Preseli Pembrokeshire",
+                    "ons_code": "W07000065",
+                    "mp": null,
+                    "signature_count": 152
+                },
+                {
+                    "name": "Preston",
+                    "ons_code": "E14000885",
+                    "mp": null,
+                    "signature_count": 564
+                },
+                {
+                    "name": "Pudsey",
+                    "ons_code": "E14000886",
+                    "mp": null,
+                    "signature_count": 336
+                },
+                {
+                    "name": "Putney",
+                    "ons_code": "E14000887",
+                    "mp": null,
+                    "signature_count": 122
+                },
+                {
+                    "name": "Rayleigh and Wickford",
+                    "ons_code": "E14000888",
+                    "mp": null,
+                    "signature_count": 226
+                },
+                {
+                    "name": "Reading East",
+                    "ons_code": "E14000889",
+                    "mp": null,
+                    "signature_count": 304
+                },
+                {
+                    "name": "Reading West",
+                    "ons_code": "E14000890",
+                    "mp": null,
+                    "signature_count": 364
+                },
+                {
+                    "name": "Redcar",
+                    "ons_code": "E14000891",
+                    "mp": null,
+                    "signature_count": 341
+                },
+                {
+                    "name": "Redditch",
+                    "ons_code": "E14000892",
+                    "mp": null,
+                    "signature_count": 317
+                },
+                {
+                    "name": "Reigate",
+                    "ons_code": "E14000893",
+                    "mp": null,
+                    "signature_count": 223
+                },
+                {
+                    "name": "Rhondda",
+                    "ons_code": "W07000052",
+                    "mp": null,
+                    "signature_count": 310
+                },
+                {
+                    "name": "Ribble Valley",
+                    "ons_code": "E14000894",
+                    "mp": null,
+                    "signature_count": 513
+                },
+                {
+                    "name": "Richmond (Yorks)",
+                    "ons_code": "E14000895",
+                    "mp": null,
+                    "signature_count": 320
+                },
+                {
+                    "name": "Richmond Park",
+                    "ons_code": "E14000896",
+                    "mp": null,
+                    "signature_count": 149
+                },
+                {
+                    "name": "Rochdale",
+                    "ons_code": "E14000897",
+                    "mp": null,
+                    "signature_count": 605
+                },
+                {
+                    "name": "Rochester and Strood",
+                    "ons_code": "E14000898",
+                    "mp": null,
+                    "signature_count": 379
+                },
+                {
+                    "name": "Rochford and Southend East",
+                    "ons_code": "E14000899",
+                    "mp": null,
+                    "signature_count": 251
+                },
+                {
+                    "name": "Romford",
+                    "ons_code": "E14000900",
+                    "mp": null,
+                    "signature_count": 319
+                },
+                {
+                    "name": "Romsey and Southampton North",
+                    "ons_code": "E14000901",
+                    "mp": null,
+                    "signature_count": 186
+                },
+                {
+                    "name": "Rossendale and Darwen",
+                    "ons_code": "E14000902",
+                    "mp": null,
+                    "signature_count": 525
+                },
+                {
+                    "name": "Rother Valley",
+                    "ons_code": "E14000903",
+                    "mp": null,
+                    "signature_count": 427
+                },
+                {
+                    "name": "Rotherham",
+                    "ons_code": "E14000904",
+                    "mp": null,
+                    "signature_count": 409
+                },
+                {
+                    "name": "Rugby",
+                    "ons_code": "E14000905",
+                    "mp": null,
+                    "signature_count": 247
+                },
+                {
+                    "name": "Ruislip, Northwood and Pinner",
+                    "ons_code": "E14000906",
+                    "mp": null,
+                    "signature_count": 308
+                },
+                {
+                    "name": "Runnymede and Weybridge",
+                    "ons_code": "E14000907",
+                    "mp": null,
+                    "signature_count": 276
+                },
+                {
+                    "name": "Rushcliffe",
+                    "ons_code": "E14000908",
+                    "mp": null,
+                    "signature_count": 213
+                },
+                {
+                    "name": "Rutland and Melton",
+                    "ons_code": "E14000909",
+                    "mp": null,
+                    "signature_count": 224
+                },
+                {
+                    "name": "Saffron Walden",
+                    "ons_code": "E14000910",
+                    "mp": null,
+                    "signature_count": 228
+                },
+                {
+                    "name": "Salford and Eccles",
+                    "ons_code": "E14000911",
+                    "mp": null,
+                    "signature_count": 400
+                },
+                {
+                    "name": "Salisbury",
+                    "ons_code": "E14000912",
+                    "mp": null,
+                    "signature_count": 127
+                },
+                {
+                    "name": "Scarborough and Whitby",
+                    "ons_code": "E14000913",
+                    "mp": null,
+                    "signature_count": 338
+                },
+                {
+                    "name": "Scunthorpe",
+                    "ons_code": "E14000914",
+                    "mp": null,
+                    "signature_count": 356
+                },
+                {
+                    "name": "Sedgefield",
+                    "ons_code": "E14000915",
+                    "mp": null,
+                    "signature_count": 257
+                },
+                {
+                    "name": "Sefton Central",
+                    "ons_code": "E14000916",
+                    "mp": null,
+                    "signature_count": 321
+                },
+                {
+                    "name": "Selby and Ainsty",
+                    "ons_code": "E14000917",
+                    "mp": null,
+                    "signature_count": 271
+                },
+                {
+                    "name": "Sevenoaks",
+                    "ons_code": "E14000918",
+                    "mp": null,
+                    "signature_count": 219
+                },
+                {
+                    "name": "Sheffield Central",
+                    "ons_code": "E14000919",
+                    "mp": null,
+                    "signature_count": 268
+                },
+                {
+                    "name": "Sheffield South East",
+                    "ons_code": "E14000920",
+                    "mp": null,
+                    "signature_count": 330
+                },
+                {
+                    "name": "Sheffield, Brightside and Hillsborough",
+                    "ons_code": "E14000921",
+                    "mp": null,
+                    "signature_count": 381
+                },
+                {
+                    "name": "Sheffield, Hallam",
+                    "ons_code": "E14000922",
+                    "mp": null,
+                    "signature_count": 202
+                },
+                {
+                    "name": "Sheffield, Heeley",
+                    "ons_code": "E14000923",
+                    "mp": null,
+                    "signature_count": 265
+                },
+                {
+                    "name": "Sherwood",
+                    "ons_code": "E14000924",
+                    "mp": null,
+                    "signature_count": 349
+                },
+                {
+                    "name": "Shipley",
+                    "ons_code": "E14000925",
+                    "mp": null,
+                    "signature_count": 383
+                },
+                {
+                    "name": "Shrewsbury and Atcham",
+                    "ons_code": "E14000926",
+                    "mp": null,
+                    "signature_count": 243
+                },
+                {
+                    "name": "Sittingbourne and Sheppey",
+                    "ons_code": "E14000927",
+                    "mp": null,
+                    "signature_count": 324
+                },
+                {
+                    "name": "Skipton and Ripon",
+                    "ons_code": "E14000928",
+                    "mp": null,
+                    "signature_count": 193
+                },
+                {
+                    "name": "Sleaford and North Hykeham",
+                    "ons_code": "E14000929",
+                    "mp": null,
+                    "signature_count": 315
+                },
+                {
+                    "name": "Slough",
+                    "ons_code": "E14000930",
+                    "mp": null,
+                    "signature_count": 544
+                },
+                {
+                    "name": "Solihull",
+                    "ons_code": "E14000931",
+                    "mp": null,
+                    "signature_count": 283
+                },
+                {
+                    "name": "Somerton and Frome",
+                    "ons_code": "E14000932",
+                    "mp": null,
+                    "signature_count": 235
+                },
+                {
+                    "name": "South Antrim",
+                    "ons_code": "N06000014",
+                    "mp": null,
+                    "signature_count": 362
+                },
+                {
+                    "name": "South Basildon and East Thurrock",
+                    "ons_code": "E14000933",
+                    "mp": null,
+                    "signature_count": 440
+                },
+                {
+                    "name": "South Cambridgeshire",
+                    "ons_code": "E14000934",
+                    "mp": null,
+                    "signature_count": 135
+                },
+                {
+                    "name": "South Derbyshire",
+                    "ons_code": "E14000935",
+                    "mp": null,
+                    "signature_count": 253
+                },
+                {
+                    "name": "South Dorset",
+                    "ons_code": "E14000936",
+                    "mp": null,
+                    "signature_count": 199
+                },
+                {
+                    "name": "South Down",
+                    "ons_code": "N06000015",
+                    "mp": null,
+                    "signature_count": 360
+                },
+                {
+                    "name": "South East Cambridgeshire",
+                    "ons_code": "E14000937",
+                    "mp": null,
+                    "signature_count": 147
+                },
+                {
+                    "name": "South East Cornwall",
+                    "ons_code": "E14000938",
+                    "mp": null,
+                    "signature_count": 204
+                },
+                {
+                    "name": "South Holland and The Deepings",
+                    "ons_code": "E14000939",
+                    "mp": null,
+                    "signature_count": 270
+                },
+                {
+                    "name": "South Leicestershire",
+                    "ons_code": "E14000940",
+                    "mp": null,
+                    "signature_count": 260
+                },
+                {
+                    "name": "South Norfolk",
+                    "ons_code": "E14000941",
+                    "mp": null,
+                    "signature_count": 203
+                },
+                {
+                    "name": "South Northamptonshire",
+                    "ons_code": "E14000942",
+                    "mp": null,
+                    "signature_count": 309
+                },
+                {
+                    "name": "South Ribble",
+                    "ons_code": "E14000943",
+                    "mp": null,
+                    "signature_count": 411
+                },
+                {
+                    "name": "South Shields",
+                    "ons_code": "E14000944",
+                    "mp": null,
+                    "signature_count": 321
+                },
+                {
+                    "name": "South Staffordshire",
+                    "ons_code": "E14000945",
+                    "mp": null,
+                    "signature_count": 314
+                },
+                {
+                    "name": "South Suffolk",
+                    "ons_code": "E14000946",
+                    "mp": null,
+                    "signature_count": 220
+                },
+                {
+                    "name": "South Swindon",
+                    "ons_code": "E14000947",
+                    "mp": null,
+                    "signature_count": 179
+                },
+                {
+                    "name": "South Thanet",
+                    "ons_code": "E14000948",
+                    "mp": null,
+                    "signature_count": 215
+                },
+                {
+                    "name": "South West Bedfordshire",
+                    "ons_code": "E14000949",
+                    "mp": null,
+                    "signature_count": 349
+                },
+                {
+                    "name": "South West Devon",
+                    "ons_code": "E14000950",
+                    "mp": null,
+                    "signature_count": 192
+                },
+                {
+                    "name": "South West Hertfordshire",
+                    "ons_code": "E14000951",
+                    "mp": null,
+                    "signature_count": 311
+                },
+                {
+                    "name": "South West Norfolk",
+                    "ons_code": "E14000952",
+                    "mp": null,
+                    "signature_count": 230
+                },
+                {
+                    "name": "South West Surrey",
+                    "ons_code": "E14000953",
+                    "mp": null,
+                    "signature_count": 220
+                },
+                {
+                    "name": "South West Wiltshire",
+                    "ons_code": "E14000954",
+                    "mp": null,
+                    "signature_count": 248
+                },
+                {
+                    "name": "Southampton, Itchen",
+                    "ons_code": "E14000955",
+                    "mp": null,
+                    "signature_count": 282
+                },
+                {
+                    "name": "Southampton, Test",
+                    "ons_code": "E14000956",
+                    "mp": null,
+                    "signature_count": 323
+                },
+                {
+                    "name": "Southend West",
+                    "ons_code": "E14000957",
+                    "mp": null,
+                    "signature_count": 168
+                },
+                {
+                    "name": "Southport",
+                    "ons_code": "E14000958",
+                    "mp": null,
+                    "signature_count": 328
+                },
+                {
+                    "name": "Spelthorne",
+                    "ons_code": "E14000959",
+                    "mp": null,
+                    "signature_count": 365
+                },
+                {
+                    "name": "St Albans",
+                    "ons_code": "E14000960",
+                    "mp": null,
+                    "signature_count": 231
+                },
+                {
+                    "name": "St Austell and Newquay",
+                    "ons_code": "E14000961",
+                    "mp": null,
+                    "signature_count": 202
+                },
+                {
+                    "name": "St Helens North",
+                    "ons_code": "E14000962",
+                    "mp": null,
+                    "signature_count": 366
+                },
+                {
+                    "name": "St Helens South and Whiston",
+                    "ons_code": "E14000963",
+                    "mp": null,
+                    "signature_count": 428
+                },
+                {
+                    "name": "St Ives",
+                    "ons_code": "E14000964",
+                    "mp": null,
+                    "signature_count": 202
+                },
+                {
+                    "name": "Stafford",
+                    "ons_code": "E14000965",
+                    "mp": null,
+                    "signature_count": 243
+                },
+                {
+                    "name": "Staffordshire Moorlands",
+                    "ons_code": "E14000966",
+                    "mp": null,
+                    "signature_count": 210
+                },
+                {
+                    "name": "Stalybridge and Hyde",
+                    "ons_code": "E14000967",
+                    "mp": null,
+                    "signature_count": 457
+                },
+                {
+                    "name": "Stevenage",
+                    "ons_code": "E14000968",
+                    "mp": null,
+                    "signature_count": 300
+                },
+                {
+                    "name": "Stockport",
+                    "ons_code": "E14000969",
+                    "mp": null,
+                    "signature_count": 318
+                },
+                {
+                    "name": "Stockton North",
+                    "ons_code": "E14000970",
+                    "mp": null,
+                    "signature_count": 306
+                },
+                {
+                    "name": "Stockton South",
+                    "ons_code": "E14000971",
+                    "mp": null,
+                    "signature_count": 348
+                },
+                {
+                    "name": "Stoke-on-Trent Central",
+                    "ons_code": "E14000972",
+                    "mp": null,
+                    "signature_count": 284
+                },
+                {
+                    "name": "Stoke-on-Trent North",
+                    "ons_code": "E14000973",
+                    "mp": null,
+                    "signature_count": 373
+                },
+                {
+                    "name": "Stoke-on-Trent South",
+                    "ons_code": "E14000974",
+                    "mp": null,
+                    "signature_count": 335
+                },
+                {
+                    "name": "Stone",
+                    "ons_code": "E14000975",
+                    "mp": null,
+                    "signature_count": 225
+                },
+                {
+                    "name": "Stourbridge",
+                    "ons_code": "E14000976",
+                    "mp": null,
+                    "signature_count": 299
+                },
+                {
+                    "name": "Strangford",
+                    "ons_code": "N06000016",
+                    "mp": null,
+                    "signature_count": 303
+                },
+                {
+                    "name": "Stratford-on-Avon",
+                    "ons_code": "E14000977",
+                    "mp": null,
+                    "signature_count": 176
+                },
+                {
+                    "name": "Streatham",
+                    "ons_code": "E14000978",
+                    "mp": null,
+                    "signature_count": 155
+                },
+                {
+                    "name": "Stretford and Urmston",
+                    "ons_code": "E14000979",
+                    "mp": null,
+                    "signature_count": 581
+                },
+                {
+                    "name": "Stroud",
+                    "ons_code": "E14000980",
+                    "mp": null,
+                    "signature_count": 184
+                },
+                {
+                    "name": "Suffolk Coastal",
+                    "ons_code": "E14000981",
+                    "mp": null,
+                    "signature_count": 220
+                },
+                {
+                    "name": "Sunderland Central",
+                    "ons_code": "E14000982",
+                    "mp": null,
+                    "signature_count": 373
+                },
+                {
+                    "name": "Surrey Heath",
+                    "ons_code": "E14000983",
+                    "mp": null,
+                    "signature_count": 194
+                },
+                {
+                    "name": "Sutton and Cheam",
+                    "ons_code": "E14000984",
+                    "mp": null,
+                    "signature_count": 188
+                },
+                {
+                    "name": "Sutton Coldfield",
+                    "ons_code": "E14000985",
+                    "mp": null,
+                    "signature_count": 241
+                },
+                {
+                    "name": "Swansea East",
+                    "ons_code": "W07000048",
+                    "mp": null,
+                    "signature_count": 265
+                },
+                {
+                    "name": "Swansea West",
+                    "ons_code": "W07000047",
+                    "mp": null,
+                    "signature_count": 223
+                },
+                {
+                    "name": "Tamworth",
+                    "ons_code": "E14000986",
+                    "mp": null,
+                    "signature_count": 320
+                },
+                {
+                    "name": "Tatton",
+                    "ons_code": "E14000987",
+                    "mp": null,
+                    "signature_count": 223
+                },
+                {
+                    "name": "Taunton Deane",
+                    "ons_code": "E14000988",
+                    "mp": null,
+                    "signature_count": 207
+                },
+                {
+                    "name": "Telford",
+                    "ons_code": "E14000989",
+                    "mp": null,
+                    "signature_count": 355
+                },
+                {
+                    "name": "Tewkesbury",
+                    "ons_code": "E14000990",
+                    "mp": null,
+                    "signature_count": 189
+                },
+                {
+                    "name": "The Cotswolds",
+                    "ons_code": "E14000991",
+                    "mp": null,
+                    "signature_count": 154
+                },
+                {
+                    "name": "The Wrekin",
+                    "ons_code": "E14000992",
+                    "mp": null,
+                    "signature_count": 322
+                },
+                {
+                    "name": "Thirsk and Malton",
+                    "ons_code": "E14000993",
+                    "mp": null,
+                    "signature_count": 217
+                },
+                {
+                    "name": "Thornbury and Yate",
+                    "ons_code": "E14000994",
+                    "mp": null,
+                    "signature_count": 235
+                },
+                {
+                    "name": "Thurrock",
+                    "ons_code": "E14000995",
+                    "mp": null,
+                    "signature_count": 554
+                },
+                {
+                    "name": "Tiverton and Honiton",
+                    "ons_code": "E14000996",
+                    "mp": null,
+                    "signature_count": 112
+                },
+                {
+                    "name": "Tonbridge and Malling",
+                    "ons_code": "E14000997",
+                    "mp": null,
+                    "signature_count": 203
+                },
+                {
+                    "name": "Tooting",
+                    "ons_code": "E14000998",
+                    "mp": null,
+                    "signature_count": 116
+                },
+                {
+                    "name": "Torbay",
+                    "ons_code": "E14000999",
+                    "mp": null,
+                    "signature_count": 121
+                },
+                {
+                    "name": "Torfaen",
+                    "ons_code": "W07000053",
+                    "mp": null,
+                    "signature_count": 231
+                },
+                {
+                    "name": "Torridge and West Devon",
+                    "ons_code": "E14001000",
+                    "mp": null,
+                    "signature_count": 178
+                },
+                {
+                    "name": "Totnes",
+                    "ons_code": "E14001001",
+                    "mp": null,
+                    "signature_count": 137
+                },
+                {
+                    "name": "Tottenham",
+                    "ons_code": "E14001002",
+                    "mp": null,
+                    "signature_count": 334
+                },
+                {
+                    "name": "Truro and Falmouth",
+                    "ons_code": "E14001003",
+                    "mp": null,
+                    "signature_count": 225
+                },
+                {
+                    "name": "Tunbridge Wells",
+                    "ons_code": "E14001004",
+                    "mp": null,
+                    "signature_count": 169
+                },
+                {
+                    "name": "Twickenham",
+                    "ons_code": "E14001005",
+                    "mp": null,
+                    "signature_count": 199
+                },
+                {
+                    "name": "Tynemouth",
+                    "ons_code": "E14001006",
+                    "mp": null,
+                    "signature_count": 280
+                },
+                {
+                    "name": "Upper Bann",
+                    "ons_code": "N06000017",
+                    "mp": null,
+                    "signature_count": 313
+                },
+                {
+                    "name": "Uxbridge and South Ruislip",
+                    "ons_code": "E14001007",
+                    "mp": null,
+                    "signature_count": 466
+                },
+                {
+                    "name": "Vale of Clwyd",
+                    "ons_code": "W07000060",
+                    "mp": null,
+                    "signature_count": 203
+                },
+                {
+                    "name": "Vale of Glamorgan",
+                    "ons_code": "W07000078",
+                    "mp": null,
+                    "signature_count": 334
+                },
+                {
+                    "name": "Vauxhall",
+                    "ons_code": "E14001008",
+                    "mp": null,
+                    "signature_count": 172
+                },
+                {
+                    "name": "Wakefield",
+                    "ons_code": "E14001009",
+                    "mp": null,
+                    "signature_count": 388
+                },
+                {
+                    "name": "Wallasey",
+                    "ons_code": "E14001010",
+                    "mp": null,
+                    "signature_count": 241
+                },
+                {
+                    "name": "Walsall North",
+                    "ons_code": "E14001011",
+                    "mp": null,
+                    "signature_count": 342
+                },
+                {
+                    "name": "Walsall South",
+                    "ons_code": "E14001012",
+                    "mp": null,
+                    "signature_count": 437
+                },
+                {
+                    "name": "Walthamstow",
+                    "ons_code": "E14001013",
+                    "mp": null,
+                    "signature_count": 365
+                },
+                {
+                    "name": "Wansbeck",
+                    "ons_code": "E14001014",
+                    "mp": null,
+                    "signature_count": 271
+                },
+                {
+                    "name": "Wantage",
+                    "ons_code": "E14001015",
+                    "mp": null,
+                    "signature_count": 169
+                },
+                {
+                    "name": "Warley",
+                    "ons_code": "E14001016",
+                    "mp": null,
+                    "signature_count": 406
+                },
+                {
+                    "name": "Warrington North",
+                    "ons_code": "E14001017",
+                    "mp": null,
+                    "signature_count": 316
+                },
+                {
+                    "name": "Warrington South",
+                    "ons_code": "E14001018",
+                    "mp": null,
+                    "signature_count": 384
+                },
+                {
+                    "name": "Warwick and Leamington",
+                    "ons_code": "E14001019",
+                    "mp": null,
+                    "signature_count": 234
+                },
+                {
+                    "name": "Washington and Sunderland West",
+                    "ons_code": "E14001020",
+                    "mp": null,
+                    "signature_count": 314
+                },
+                {
+                    "name": "Watford",
+                    "ons_code": "E14001021",
+                    "mp": null,
+                    "signature_count": 398
+                },
+                {
+                    "name": "Waveney",
+                    "ons_code": "E14001022",
+                    "mp": null,
+                    "signature_count": 195
+                },
+                {
+                    "name": "Wealden",
+                    "ons_code": "E14001023",
+                    "mp": null,
+                    "signature_count": 206
+                },
+                {
+                    "name": "Weaver Vale",
+                    "ons_code": "E14001024",
+                    "mp": null,
+                    "signature_count": 257
+                },
+                {
+                    "name": "Wellingborough",
+                    "ons_code": "E14001025",
+                    "mp": null,
+                    "signature_count": 287
+                },
+                {
+                    "name": "Wells",
+                    "ons_code": "E14001026",
+                    "mp": null,
+                    "signature_count": 232
+                },
+                {
+                    "name": "Welwyn Hatfield",
+                    "ons_code": "E14001027",
+                    "mp": null,
+                    "signature_count": 289
+                },
+                {
+                    "name": "Wentworth and Dearne",
+                    "ons_code": "E14001028",
+                    "mp": null,
+                    "signature_count": 498
+                },
+                {
+                    "name": "West Bromwich East",
+                    "ons_code": "E14001029",
+                    "mp": null,
+                    "signature_count": 470
+                },
+                {
+                    "name": "West Bromwich West",
+                    "ons_code": "E14001030",
+                    "mp": null,
+                    "signature_count": 448
+                },
+                {
+                    "name": "West Dorset",
+                    "ons_code": "E14001031",
+                    "mp": null,
+                    "signature_count": 107
+                },
+                {
+                    "name": "West Ham",
+                    "ons_code": "E14001032",
+                    "mp": null,
+                    "signature_count": 450
+                },
+                {
+                    "name": "West Lancashire",
+                    "ons_code": "E14001033",
+                    "mp": null,
+                    "signature_count": 347
+                },
+                {
+                    "name": "West Suffolk",
+                    "ons_code": "E14001034",
+                    "mp": null,
+                    "signature_count": 208
+                },
+                {
+                    "name": "West Tyrone",
+                    "ons_code": "N06000018",
+                    "mp": null,
+                    "signature_count": 407
+                },
+                {
+                    "name": "West Worcestershire",
+                    "ons_code": "E14001035",
+                    "mp": null,
+                    "signature_count": 170
+                },
+                {
+                    "name": "Westminster North",
+                    "ons_code": "E14001036",
+                    "mp": null,
+                    "signature_count": 105
+                },
+                {
+                    "name": "Westmorland and Lonsdale",
+                    "ons_code": "E14001037",
+                    "mp": null,
+                    "signature_count": 192
+                },
+                {
+                    "name": "Weston-super-Mare",
+                    "ons_code": "E14001038",
+                    "mp": null,
+                    "signature_count": 286
+                },
+                {
+                    "name": "Wigan",
+                    "ons_code": "E14001039",
+                    "mp": null,
+                    "signature_count": 388
+                },
+                {
+                    "name": "Wimbledon",
+                    "ons_code": "E14001040",
+                    "mp": null,
+                    "signature_count": 96
+                },
+                {
+                    "name": "Winchester",
+                    "ons_code": "E14001041",
+                    "mp": null,
+                    "signature_count": 184
+                },
+                {
+                    "name": "Windsor",
+                    "ons_code": "E14001042",
+                    "mp": null,
+                    "signature_count": 265
+                },
+                {
+                    "name": "Wirral South",
+                    "ons_code": "E14001043",
+                    "mp": null,
+                    "signature_count": 147
+                },
+                {
+                    "name": "Wirral West",
+                    "ons_code": "E14001044",
+                    "mp": null,
+                    "signature_count": 160
+                },
+                {
+                    "name": "Witham",
+                    "ons_code": "E14001045",
+                    "mp": null,
+                    "signature_count": 244
+                },
+                {
+                    "name": "Witney",
+                    "ons_code": "E14001046",
+                    "mp": null,
+                    "signature_count": 147
+                },
+                {
+                    "name": "Woking",
+                    "ons_code": "E14001047",
+                    "mp": null,
+                    "signature_count": 249
+                },
+                {
+                    "name": "Wokingham",
+                    "ons_code": "E14001048",
+                    "mp": null,
+                    "signature_count": 275
+                },
+                {
+                    "name": "Wolverhampton North East",
+                    "ons_code": "E14001049",
+                    "mp": null,
+                    "signature_count": 379
+                },
+                {
+                    "name": "Wolverhampton South East",
+                    "ons_code": "E14001050",
+                    "mp": null,
+                    "signature_count": 377
+                },
+                {
+                    "name": "Wolverhampton South West",
+                    "ons_code": "E14001051",
+                    "mp": null,
+                    "signature_count": 277
+                },
+                {
+                    "name": "Worcester",
+                    "ons_code": "E14001052",
+                    "mp": null,
+                    "signature_count": 223
+                },
+                {
+                    "name": "Workington",
+                    "ons_code": "E14001053",
+                    "mp": null,
+                    "signature_count": 113
+                },
+                {
+                    "name": "Worsley and Eccles South",
+                    "ons_code": "E14001054",
+                    "mp": null,
+                    "signature_count": 415
+                },
+                {
+                    "name": "Worthing West",
+                    "ons_code": "E14001055",
+                    "mp": null,
+                    "signature_count": 222
+                },
+                {
+                    "name": "Wrexham",
+                    "ons_code": "W07000044",
+                    "mp": null,
+                    "signature_count": 215
+                },
+                {
+                    "name": "Wycombe",
+                    "ons_code": "E14001056",
+                    "mp": null,
+                    "signature_count": 358
+                },
+                {
+                    "name": "Wyre and Preston North",
+                    "ons_code": "E14001057",
+                    "mp": null,
+                    "signature_count": 263
+                },
+                {
+                    "name": "Wyre Forest",
+                    "ons_code": "E14001058",
+                    "mp": null,
+                    "signature_count": 243
+                },
+                {
+                    "name": "Wythenshawe and Sale East",
+                    "ons_code": "E14001059",
+                    "mp": null,
+                    "signature_count": 499
+                },
+                {
+                    "name": "Yeovil",
+                    "ons_code": "E14001060",
+                    "mp": null,
+                    "signature_count": 269
+                },
+                {
+                    "name": "Ynys Môn",
+                    "ons_code": "W07000041",
+                    "mp": null,
+                    "signature_count": 200
+                },
+                {
+                    "name": "York Central",
+                    "ons_code": "E14001061",
+                    "mp": null,
+                    "signature_count": 157
+                },
+                {
+                    "name": "York Outer",
+                    "ons_code": "E14001062",
+                    "mp": null,
+                    "signature_count": 137
+                },
+                {
+                    "name": "Caithness, Sutherland and Easter Ross",
+                    "ons_code": "S14000009",
+                    "mp": null,
+                    "signature_count": 91
+                },
+                {
+                    "name": "Angus",
+                    "ons_code": "S14000004",
+                    "mp": null,
+                    "signature_count": 66
+                },
+                {
+                    "name": "Central Ayrshire",
+                    "ons_code": "S14000010",
+                    "mp": null,
+                    "signature_count": 166
+                },
+                {
+                    "name": "Argyll and Bute",
+                    "ons_code": "S14000005",
+                    "mp": null,
+                    "signature_count": 115
+                },
+                {
+                    "name": "Coatbridge, Chryston and Bellshill",
+                    "ons_code": "S14000011",
+                    "mp": null,
+                    "signature_count": 249
+                },
+                {
+                    "name": "Cumbernauld, Kilsyth and Kirkintilloch East",
+                    "ons_code": "S14000012",
+                    "mp": null,
+                    "signature_count": 303
+                },
+                {
+                    "name": "Dumfries and Galloway",
+                    "ons_code": "S14000013",
+                    "mp": null,
+                    "signature_count": 100
+                },
+                {
+                    "name": "Dumfriesshire, Clydesdale and Tweeddale",
+                    "ons_code": "S14000014",
+                    "mp": null,
+                    "signature_count": 103
+                },
+                {
+                    "name": "Dundee East",
+                    "ons_code": "S14000015",
+                    "mp": null,
+                    "signature_count": 75
+                },
+                {
+                    "name": "Dundee West",
+                    "ons_code": "S14000016",
+                    "mp": null,
+                    "signature_count": 91
+                },
+                {
+                    "name": "Dunfermline and West Fife",
+                    "ons_code": "S14000017",
+                    "mp": null,
+                    "signature_count": 221
+                },
+                {
+                    "name": "East Dunbartonshire",
+                    "ons_code": "S14000018",
+                    "mp": null,
+                    "signature_count": 161
+                },
+                {
+                    "name": "East Kilbride, Strathaven and Lesmahagow",
+                    "ons_code": "S14000019",
+                    "mp": null,
+                    "signature_count": 330
+                },
+                {
+                    "name": "Ayr, Carrick and Cumnock",
+                    "ons_code": "S14000006",
+                    "mp": null,
+                    "signature_count": 205
+                },
+                {
+                    "name": "East Lothian",
+                    "ons_code": "S14000020",
+                    "mp": null,
+                    "signature_count": 207
+                },
+                {
+                    "name": "East Renfrewshire",
+                    "ons_code": "S14000021",
+                    "mp": null,
+                    "signature_count": 255
+                }
+            ]
+        }
+    }
+}

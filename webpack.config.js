@@ -1,6 +1,7 @@
 const webpack = require("webpack");
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
+const ExtractTextWebpackPlugin = require("extract-text-webpack-plugin");
 
 module.exports = {
     entry: {
@@ -20,7 +21,13 @@ module.exports = {
             use: "ts-loader"
         }, {
             test: /\.(scss|css)/,
-            use: ["style-loader", "css-loader", "sass-loader"]
+            use: ExtractTextWebpackPlugin.extract({
+                fallback: "style-loader",
+                use: ["css-loader", "sass-loader"]
+            })
+        }, {
+            test: /\.(jpg|jpeg|png|gif|svg)/,
+            use: "file-loader"
         }]
     },
     plugins: [
@@ -30,7 +37,8 @@ module.exports = {
         new HtmlWebpackPlugin({
             template: path.resolve(__dirname, "src", "index.ejs"),
             title: "UK Goverment & Petitions Data"
-        })
+        }),
+        new ExtractTextWebpackPlugin("styles.css")
     ],
     devServer: {
         contentBase: path.join(__dirname, "dist"),
