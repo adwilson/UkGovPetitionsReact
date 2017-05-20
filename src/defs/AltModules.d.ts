@@ -1,3 +1,5 @@
+
+/* Taken from node.d.ts */
 interface NodeRequireFunction {
     (id: string): any;
 }
@@ -20,8 +22,11 @@ interface NodeModule {
     parent: NodeModule | null;
     children: NodeModule[];
 }
+/* =================================== */
 
+/* Ambient declarations */
 declare module "*.svg" {
     const svg: string;
     export { svg };
 }
+/* =================================== */

@@ -6,7 +6,7 @@ const ExtractTextWebpackPlugin = require("extract-text-webpack-plugin");
 module.exports = {
     entry: {
         main: "./src/index.tsx",
-        vendor: ["react", "react-dom"]
+        vendor: ["react", "react-dom", "react-router", "react-router-dom", "moment", "lodash"]
     },
     output: {
         path: path.resolve(__dirname, "dist"),
@@ -26,7 +26,7 @@ module.exports = {
                 use: ["css-loader", "sass-loader"]
             })
         }, {
-            test: /\.(jpg|jpeg|png|gif|svg)/,
+            test: /\.(jpg|jpeg|png|gif|svg)/i,
             use: "file-loader"
         }]
     },
@@ -36,7 +36,7 @@ module.exports = {
         }),
         new HtmlWebpackPlugin({
             template: path.resolve(__dirname, "src", "index.ejs"),
-            title: "UK Goverment & Petitions Data"
+            title: "UK Government Petitions - Data"
         }),
         new ExtractTextWebpackPlugin("styles.css")
     ],
