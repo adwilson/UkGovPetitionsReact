@@ -14,7 +14,7 @@ export class App extends React.Component<App.Props, App.State> {
                     <Link to="/">Home</Link>
                 </nav>
                 <main>
-                    <Route path="/" component={Home} />
+                    <Route exact path="/" component={Home} />
                     <Route path="/petition/:id" component={Detail} />
                 </main>
             </div>

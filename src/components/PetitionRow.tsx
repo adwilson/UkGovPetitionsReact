@@ -1,5 +1,6 @@
 
 import * as React from "react";
+import { Link } from "react-router-dom";
 import * as moment from "moment";
 
 export class PetitionRow extends React.Component<PetitionRow.Props, PetitionRow.State> {
@@ -46,7 +47,7 @@ export class PetitionRow extends React.Component<PetitionRow.Props, PetitionRow.
                     <hr />
                 </div>
                 <div className="col-12">
-                    <h2>{this.state.attr.action}</h2>
+                    <h2><Link to={`/petition/${this.props.petition.id}`}>{this.state.attr.action}</Link></h2>
                     <p>{this.state.attr.background}</p>
                     {this.getAdditionalDetails()}
                 </div>
